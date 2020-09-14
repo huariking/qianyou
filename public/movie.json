@@ -1,0 +1,265 @@
+{
+  "coming": [],
+  "movieIds": [
+    346210,
+    1210778,
+    1297973,
+    489894,
+    1297911,
+    1215767,
+    1337937,
+    1299144,
+    1301478,
+    1284572,
+    1307132,
+    1262682,
+    1298964,
+    1277457,
+    1302432
+  ],
+  "stid": "576591972453269000",
+  "stids": [
+    {
+      "movieId": 346210,
+      "stid": "576591972453269000_a346210_c0"
+    },
+    {
+      "movieId": 1210778,
+      "stid": "576591972453269000_a1210778_c1"
+    },
+    {
+      "movieId": 1297973,
+      "stid": "576591972453269000_a1297973_c2"
+    },
+    {
+      "movieId": 489894,
+      "stid": "576591972453269000_a489894_c3"
+    },
+    {
+      "movieId": 1297911,
+      "stid": "576591972453269000_a1297911_c4"
+    },
+    {
+      "movieId": 1215767,
+      "stid": "576591972453269000_a1215767_c5"
+    },
+    {
+      "movieId": 1337937,
+      "stid": "576591972453269000_a1337937_c6"
+    },
+    {
+      "movieId": 1299144,
+      "stid": "576591972453269000_a1299144_c7"
+    },
+    {
+      "movieId": 1301478,
+      "stid": "576591972453269000_a1301478_c8"
+    },
+    {
+      "movieId": 1284572,
+      "stid": "576591972453269000_a1284572_c9"
+    },
+    {
+      "movieId": 1307132,
+      "stid": "576591972453269000_a1307132_c10"
+    },
+    {
+      "movieId": 1262682,
+      "stid": "576591972453269000_a1262682_c11"
+    }
+  ],
+  "total": 15,
+  "movieList": [
+    {
+      "id": 346210,
+      "haspromotionTag": false,
+      "img": "http://p1.meituan.net/w.h/moviemachine/a448ca6a5f4dafb88067722303ca0cfd96002.jpg",
+      "version": "v2d imax",
+      "nm": "八佰",
+      "preShow": false,
+      "sc": 9.2,
+      "globalReleased": true,
+      "wish": 518898,
+      "star": "王千源,张译,姜武",
+      "rt": "2020-08-21",
+      "showInfo": "今天8家影院放映67场",
+      "showst": 3,
+      "wishst": 0
+    },
+    {
+      "id": 1210778,
+      "haspromotionTag": false,
+      "img": "http://p1.meituan.net/w.h/moviemachine/ca9d0c0268a940d73d62c004d57b957a5241814.jpg",
+      "version": "v3d imax",
+      "nm": "花木兰",
+      "preShow": false,
+      "sc": 7.6,
+      "globalReleased": true,
+      "wish": 216004,
+      "star": "刘亦菲,甄子丹,杰森·斯考特·李",
+      "rt": "2020-09-11",
+      "showInfo": "今天8家影院放映61场",
+      "showst": 3,
+      "wishst": 0
+    },
+    {
+      "id": 1297973,
+      "haspromotionTag": false,
+      "img": "http://p0.meituan.net/w.h/moviemachine/40d1e5ac176f1e9258da10a3222dbff7952117.png",
+      "version": "v2d imax",
+      "nm": "信条",
+      "preShow": false,
+      "sc": 8.3,
+      "globalReleased": true,
+      "wish": 61210,
+      "star": "约翰·大卫·华盛顿,罗伯特·帕丁森,伊丽莎白·德比茨基",
+      "rt": "2020-09-04",
+      "showInfo": "今天5家影院放映12场",
+      "showst": 3,
+      "wishst": 0
+    },
+    {
+      "id": 489894,
+      "haspromotionTag": false,
+      "img": "http://p0.meituan.net/w.h/moviemachine/7e6118993dbf0f304ac1dad4667fddda207318.jpg",
+      "version": "",
+      "nm": "我在时间尽头等你",
+      "preShow": false,
+      "sc": 7.9,
+      "globalReleased": true,
+      "wish": 642546,
+      "star": "李鸿其,李一桐,范伟",
+      "rt": "2020-08-25",
+      "showInfo": "今天5家影院放映10场",
+      "showst": 3,
+      "wishst": 0
+    },
+    {
+      "id": 1297911,
+      "haspromotionTag": false,
+      "img": "http://p0.meituan.net/w.h/moviemachine/94700ee3718b3c8eff9dd69676bdbaa31034312.jpg",
+      "version": "",
+      "nm": "我的女友是机器人",
+      "preShow": false,
+      "sc": 7.1,
+      "globalReleased": true,
+      "wish": 40666,
+      "star": "辛芷蕾,包贝尔,魏翔",
+      "rt": "2020-09-11",
+      "showInfo": "今天8家影院放映19场",
+      "showst": 3,
+      "wishst": 0
+    },
+    {
+      "id": 1215767,
+      "haspromotionTag": false,
+      "img": "http://p1.meituan.net/w.h/movie/b0654df11ac071d81a29c43f890813192972180.jpg",
+      "version": "",
+      "nm": "极寒风暴",
+      "preShow": false,
+      "sc": 0,
+      "globalReleased": true,
+      "wish": 3446,
+      "star": "让·雷诺,莎拉·林德,乔·安德森",
+      "rt": "2020-09-11",
+      "showInfo": "今天4家影院放映5场",
+      "showst": 3,
+      "wishst": 0
+    },
+    {
+      "id": 1337937,
+      "haspromotionTag": false,
+      "img": "http://p0.meituan.net/w.h/moviemachine/464ea0b89ea8265c2b18c4c3ebe5f8274585629.jpg",
+      "version": "",
+      "nm": "新愚公移山",
+      "preShow": false,
+      "sc": 0,
+      "globalReleased": true,
+      "wish": 2404,
+      "rt": "2020-09-10",
+      "showInfo": "今天1家影院放映4场",
+      "showst": 3,
+      "wishst": 0
+    },
+    {
+      "id": 1299144,
+      "haspromotionTag": false,
+      "img": "http://p1.meituan.net/w.h/movie/41d222686f37e7b6b312079e8a4651f22058796.jpg",
+      "version": "v3d",
+      "nm": "阿里巴巴与神灯",
+      "preShow": false,
+      "sc": 0,
+      "globalReleased": true,
+      "wish": 9338,
+      "star": "杨进,周杭,丁莹莹",
+      "rt": "2020-09-05",
+      "showInfo": "今天2家影院放映3场",
+      "showst": 3,
+      "wishst": 0
+    },
+    {
+      "id": 1301478,
+      "haspromotionTag": false,
+      "img": "http://p0.meituan.net/w.h/movie/09ad467d7c27bc520438db4cf8413565982827.jpg",
+      "version": "",
+      "nm": "北平会馆",
+      "preShow": false,
+      "sc": 0,
+      "globalReleased": true,
+      "wish": 38904,
+      "star": "吴大可,朱梓瑜,刘亦彤",
+      "rt": "2020-08-20",
+      "showInfo": "今天2家影院放映2场",
+      "showst": 3,
+      "wishst": 0
+    },
+    {
+      "id": 1284572,
+      "haspromotionTag": false,
+      "img": "http://p0.meituan.net/w.h/moviemachine/27e15446e9e4999fa54bbad940b5a8363531802.jpg",
+      "version": "v3d imax",
+      "nm": "1/2的魔法",
+      "preShow": false,
+      "sc": 9.1,
+      "globalReleased": true,
+      "wish": 14583,
+      "star": "汤姆·赫兰德,克里斯·帕拉特,茱莉亚·路易斯-德瑞弗斯",
+      "rt": "2020-08-19",
+      "showInfo": "今天1家影院放映1场",
+      "showst": 3,
+      "wishst": 0
+    },
+    {
+      "id": 1307132,
+      "haspromotionTag": false,
+      "img": "http://p0.meituan.net/w.h/movie/4ac79d270ca721faf5dd366ba996f46a832427.jpg",
+      "version": "",
+      "nm": "未知嫌疑人",
+      "preShow": false,
+      "sc": 8.2,
+      "globalReleased": true,
+      "wish": 4925,
+      "star": "玛丽亚·加维拉,罗伯托·埃斯科巴,杰拉丁·泽维奇",
+      "rt": "2020-09-10",
+      "showInfo": "今天1家影院放映1场",
+      "showst": 3,
+      "wishst": 0
+    },
+    {
+      "id": 1262682,
+      "haspromotionTag": false,
+      "img": "http://p0.meituan.net/w.h/movie/e9472f71bfde600cbdcfd87b714f96021574748.jpg",
+      "version": "",
+      "nm": "辉夜大小姐想让我告白",
+      "preShow": false,
+      "sc": 8.1,
+      "globalReleased": true,
+      "wish": 23669,
+      "star": "平野紫耀,桥本环奈,佐野勇斗",
+      "rt": "2020-09-11",
+      "showInfo": "今天1家影院放映1场",
+      "showst": 3,
+      "wishst": 0
+    }
+  ]
+}

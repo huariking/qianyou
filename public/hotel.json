@@ -1,0 +1,3551 @@
+{
+  "stid": "055447599008331380242953088722349532348_anull",
+  "data": {
+    "count": 16,
+    "totalcount": 16,
+    "showTotalPriceButton": true,
+    "searchresult": [
+      {
+        "historySaleCount": "1000+消费",
+        "frontImg": "http://p1.meituan.net/w.h/tdchotel/70513fa54d0d06c375612bcab7a28ebe272623.jpg",
+        "isCooperated": 1,
+        "styles": {
+          "poiLastOrderTime": 2,
+          "scoreIntro": 1,
+          "poiSaleAndSpanTag": 2,
+          "poiRecommendTag": 2
+        },
+        "poiAttrTagList": [
+          "森林吸氧",
+          "停车场"
+        ],
+        "fodderInfo": [
+          {
+            "boothId": 1000,
+            "description": "精选皇冠酒店query词",
+            "url": "http://p0.meituan.net/hotelnoah/2134234f0ebd4acd817e61d6445a2f59.png"
+          }
+        ],
+        "showType": "hotel",
+        "addr": "南明区护国路68号（近万东大桥）",
+        "cityName": "贵阳",
+        "cityId": 107,
+        "poiid": 1566752,
+        "realPoiId": 1566752,
+        "cooperationInfo": "",
+        "areaId": 30658,
+        "areaName": "市西路/大十字广场",
+        "cates": "20,20426,20606,80,20625,20706,20963,20707,20851",
+        "hasGroup": false,
+        "zlSourceType": 1,
+        "sourceType": 1,
+        "hourRoomSpan": 0,
+        "name": "贵阳凯宾斯基大酒店",
+        "hasPackage": true,
+        "lat": 26.575528,
+        "lng": 106.718212,
+        "markNumbers": 166,
+        "dist": 1364468.125,
+        "flagshipFlag": true,
+        "lowestPrice": 886,
+        "notRoundedLowestPrice": 88587,
+        "dayRoomSpan": 1,
+        "hotelStar": "豪华型",
+        "hotelAppointmentExtType": 2,
+        "withoutAds": true,
+        "historyCouponCount": 4403,
+        "posdescr": "市西路/大十字广场 | 贵州省人民医院附近",
+        "useTime": "",
+        "brandId": 240704,
+        "avgScore": 4.7,
+        "shopId": 5664542,
+        "roomType": "",
+        "serviceDesc": [],
+        "poiSaleAndSpanTag": "1000+消费",
+        "poiRecommendTag": "豪华型",
+        "poiLastOrderTime": "",
+        "scoreIntro": "4.7分 很好",
+        "originalPriceDesc": "",
+        "originalPrice": 886.0,
+        "notRoundedOriginalPrice": 88587,
+        "showOriginalPrice": false,
+        "priceType": 1,
+        "taxFee": 0.0,
+        "commentsCountDesc": "828条评论",
+        "poiTagList": [
+          {
+            "text": "森林吸氧",
+            "textColor": "#6E6E6E",
+            "backgroundColor": "",
+            "borderColor": "#6E6E6E",
+            "imgUrl": "",
+            "imgWidth": 0,
+            "imgHeight": 0
+          },
+          {
+            "text": "停车场",
+            "textColor": "#6E6E6E",
+            "backgroundColor": "",
+            "borderColor": "#6E6E6E",
+            "imgUrl": "",
+            "imgWidth": 0,
+            "imgHeight": 0
+          },
+          {
+            "text": "亲子主题房",
+            "textColor": "#6E6E6E",
+            "backgroundColor": "",
+            "borderColor": "#6E6E6E",
+            "imgUrl": "",
+            "imgWidth": 0,
+            "imgHeight": 0
+          }
+        ],
+        "recommendInfo": {
+          "mustLive": false
+        },
+        "ugcInfo": "",
+        "poiType": 0,
+        "recommedReason": "",
+        "forward": {
+          "highHotelStar": true,
+          "albumCount": 157,
+          "poiExtendsInfosDesc": [
+            "2012年装修",
+            "2012年开业"
+          ],
+          "commentCount": 828,
+          "posdec": "",
+          "serviceIcons": [
+            {
+              "attrDesc": "中餐厅",
+              "iconUrl": "https://p0.meituan.net/travelcube/e566ecb97a5e1e0bcd2bab0ad3be784e1752.png",
+              "attrId": 101092
+            },
+            {
+              "attrDesc": "快速入住退房",
+              "iconUrl": "https://p0.meituan.net/travelcube/1cbceb68337af34ea4493a820a6e71fa1821.png",
+              "attrId": 101174
+            },
+            {
+              "attrDesc": "免费停车场",
+              "iconUrl": "https://p0.meituan.net/travelcube/b727c2c9174229155c65ba5007ec43161957.png",
+              "attrId": 101006
+            },
+            {
+              "attrDesc": "接机服务收费",
+              "iconUrl": "https://p0.meituan.net/travelcube/0e21e407e855e4ce9178ed3fdf41ed991688.png",
+              "attrId": 101183
+            },
+            {
+              "attrDesc": "酒吧",
+              "iconUrl": "https://p0.meituan.net/travelcube/ca27f179b75914f46592449a2ca080921917.png",
+              "attrId": 101011
+            },
+            {
+              "attrDesc": "客房WiFi免费",
+              "iconUrl": "https://p1.meituan.net/travelcube/0195598410d503f125c8777df84b4d6c2053.png",
+              "attrId": 101444
+            },
+            {
+              "attrDesc": "行李寄存免费",
+              "iconUrl": "https://p0.meituan.net/travelcube/8d2498d51447dcffeee8f6ad23ed20b01102.png",
+              "attrId": 101045
+            },
+            {
+              "attrDesc": "咖啡厅",
+              "iconUrl": "https://p1.meituan.net/travelcube/085cc051a1a0b01a5cad1c24204400f61487.png",
+              "attrId": 101096
+            },
+            {
+              "attrDesc": "VIP通道入住",
+              "iconUrl": "https://p0.meituan.net/travelcube/6caa5c2f25a9146435ba3894fa8817351647.png",
+              "attrId": 101315
+            },
+            {
+              "attrDesc": "24小时大堂经理",
+              "iconUrl": "https://p0.meituan.net/travelcube/cb8b82378a2eeffb8946463bb86089f22399.png",
+              "attrId": 101322
+            }
+          ],
+          "serviceTagList": [
+            "停车场",
+            "亲子主题房"
+          ],
+          "scoreInfo": "4.7分 很好",
+          "positionDescList": [],
+          "addrWithoutAdministrativeArea": "护国路68号"
+        },
+        "dpSuperHotel": false,
+        "merchantMember": false,
+        "videoUrl": "http://s3plus.meituan.net/v1/mss_66f77a3644464b589f2f061a13c82013/hoteltranscoding/hotel-a5107e31-3d09-4e0a-8b33-5be087ce4591-4141805",
+        "tagRelatedGoodsList": [],
+        "collectionFlag": false,
+        "panoramaAvailable": false,
+        "block": false,
+        "activeAvailable": true,
+        "cellType": "酒店",
+        "hide": false,
+        "spuId": 0
+      },
+      {
+        "historySaleCount": "5000+消费",
+        "frontImg": "http://p1.meituan.net/w.h/dnaimgdark/b568022c8785878e274e4127ac5466f42332547.jpg",
+        "isCooperated": 1,
+        "styles": {
+          "poiLastOrderTime": 2,
+          "scoreIntro": 1,
+          "poiSaleAndSpanTag": 2,
+          "poiRecommendTag": 2
+        },
+        "poiAttrTagList": [
+          "超级团购",
+          "近火车站"
+        ],
+        "fodderInfo": [
+          {
+            "boothId": 1000,
+            "description": "精选皇冠酒店query词",
+            "url": "http://p0.meituan.net/hotelnoah/2134234f0ebd4acd817e61d6445a2f59.png"
+          },
+          {
+            "boothId": 9003029,
+            "description": "top精选优质酒店高星酒店",
+            "url": "http://p0.meituan.net/hotelnoah/81d1f238517946d3bb26dc7837ac5bc3.png"
+          }
+        ],
+        "showType": "hotel",
+        "addr": "南明区解放路100号",
+        "cityName": "贵阳",
+        "cityId": 107,
+        "poiid": 2267445,
+        "realPoiId": 2267445,
+        "cooperationInfo": "",
+        "areaId": 30661,
+        "areaName": "贵阳火车站地区",
+        "cates": "20,20426,20606,80,20625,20706,20963,20707,20851",
+        "hasGroup": false,
+        "zlSourceType": 1,
+        "sourceType": 1,
+        "hourRoomSpan": 0,
+        "name": "贵阳铂尔曼大酒店",
+        "hasPackage": true,
+        "lat": 26.558738,
+        "lng": 106.709833,
+        "markNumbers": 347,
+        "dist": 1366514.5,
+        "flagshipFlag": true,
+        "lowestPrice": 555,
+        "notRoundedLowestPrice": 55450,
+        "dayRoomSpan": 1,
+        "hotelStar": "豪华型",
+        "hotelAppointmentExtType": 2,
+        "withoutAds": true,
+        "historyCouponCount": 11330,
+        "posdescr": "贵阳火车站地区 | 贵阳站附近",
+        "useTime": "",
+        "brandId": 1093129,
+        "avgScore": 4.7,
+        "shopId": 5475242,
+        "roomType": "",
+        "serviceDesc": [],
+        "poiSaleAndSpanTag": "5000+消费",
+        "poiRecommendTag": "豪华型",
+        "poiLastOrderTime": "57分钟前有人预订",
+        "scoreIntro": "4.7分 很好",
+        "originalPriceDesc": "",
+        "originalPrice": 555.0,
+        "notRoundedOriginalPrice": 55450,
+        "showOriginalPrice": false,
+        "priceType": 1,
+        "taxFee": 0.0,
+        "commentsCountDesc": "686条评论",
+        "poiTagList": [
+          {
+            "text": "超级团购",
+            "textColor": "#008489",
+            "backgroundColor": "",
+            "borderColor": "#008489",
+            "imgUrl": "",
+            "imgWidth": 0,
+            "imgHeight": 0
+          },
+          {
+            "text": "近火车站",
+            "textColor": "#6E6E6E",
+            "backgroundColor": "",
+            "borderColor": "#6E6E6E",
+            "imgUrl": "",
+            "imgWidth": 0,
+            "imgHeight": 0
+          },
+          {
+            "text": "健身房",
+            "textColor": "#6E6E6E",
+            "backgroundColor": "",
+            "borderColor": "#6E6E6E",
+            "imgUrl": "",
+            "imgWidth": 0,
+            "imgHeight": 0
+          },
+          {
+            "text": "游泳池",
+            "textColor": "#6E6E6E",
+            "backgroundColor": "",
+            "borderColor": "#6E6E6E",
+            "imgUrl": "",
+            "imgWidth": 0,
+            "imgHeight": 0
+          }
+        ],
+        "imageConfig": {
+          "headerImage": "https://p0.meituan.net/travelcube/6ac87ad182b0ff151db58fa6800954784158.png",
+          "headerImageType": "HIGH_STAR"
+        },
+        "recommendInfo": {
+          "text": "雅高旗下品牌",
+          "imageUrl": "https://p0.meituan.net/travelcube/6ac87ad182b0ff151db58fa6800954784158.png",
+          "textColor": "#8D5C29",
+          "mustLive": false,
+          "brandImageUrl": "https://p0.meituan.net/travelcube/6ac87ad182b0ff151db58fa6800954784158.png"
+        },
+        "ugcInfo": "",
+        "poiType": 0,
+        "recommedReason": "",
+        "forward": {
+          "highHotelStar": true,
+          "albumCount": 190,
+          "poiExtendsInfosDesc": [
+            "2018年装修",
+            "2011年开业"
+          ],
+          "commentCount": 686,
+          "posdec": "",
+          "serviceIcons": [
+            {
+              "attrDesc": "西餐厅",
+              "iconUrl": "https://p0.meituan.net/travelcube/cca2794bcc8287c805c27267ddb5fc001943.png",
+              "attrId": 101093
+            },
+            {
+              "attrDesc": "室内泳池免费",
+              "iconUrl": "https://p0.meituan.net/travelcube/4115b4f5a251900fdb8d6bccb42a37c21949.png",
+              "attrId": 101097
+            },
+            {
+              "attrDesc": "24小时前台",
+              "iconUrl": "https://p1.meituan.net/travelcube/e6ffc7739829356f3b6711a254c958d5901.png",
+              "attrId": 101041
+            },
+            {
+              "attrDesc": "健身室",
+              "iconUrl": "https://p1.meituan.net/travelcube/c26e135010b57965565b702ebbbf6b28659.png",
+              "attrId": 101028
+            },
+            {
+              "attrDesc": "收费停车场",
+              "iconUrl": "https://p0.meituan.net/travelcube/b727c2c9174229155c65ba5007ec43161957.png",
+              "attrId": 101006
+            },
+            {
+              "attrDesc": "接机服务收费",
+              "iconUrl": "https://p0.meituan.net/travelcube/0e21e407e855e4ce9178ed3fdf41ed991688.png",
+              "attrId": 101183
+            },
+            {
+              "attrDesc": "客房WiFi免费",
+              "iconUrl": "https://p1.meituan.net/travelcube/0195598410d503f125c8777df84b4d6c2053.png",
+              "attrId": 101444
+            },
+            {
+              "attrDesc": "行李寄存",
+              "iconUrl": "https://p0.meituan.net/travelcube/8d2498d51447dcffeee8f6ad23ed20b01102.png",
+              "attrId": 101045
+            },
+            {
+              "attrDesc": "24小时大堂经理",
+              "iconUrl": "https://p0.meituan.net/travelcube/cb8b82378a2eeffb8946463bb86089f22399.png",
+              "attrId": 101322
+            },
+            {
+              "attrDesc": "多功能厅",
+              "iconUrl": "https://p0.meituan.net/travelcube/63f3b056ecd500e8e14e47d84818828c1691.png",
+              "attrId": 101325
+            }
+          ],
+          "serviceTagList": [
+            "近火车站",
+            "健身房"
+          ],
+          "scoreInfo": "4.7分 很好",
+          "positionDescList": [
+            {
+              "iconUrl": "https://p1.meituan.net/travelcube/0e8bf65b542a5a4d21f7f78f69c6125d1095.png@36w_36h_80q",
+              "text": "距贵阳火车站地铁站-C口直线500米,步行950米,约12分钟"
+            }
+          ],
+          "addrWithoutAdministrativeArea": "解放路100号"
+        },
+        "dpSuperHotel": false,
+        "merchantMember": false,
+        "videoUrl": "http://s3plus.meituan.net/v1/mss_66f77a3644464b589f2f061a13c82013/hoteltranscoding/hotel-9ecb735b-5dd2-4a33-ab10-bee226817e7e-247849",
+        "tagRelatedGoodsList": [],
+        "collectionFlag": false,
+        "panoramaAvailable": false,
+        "block": false,
+        "activeAvailable": true,
+        "cellType": "酒店",
+        "hide": false,
+        "spuId": 0
+      },
+      {
+        "historySaleCount": "1000+消费",
+        "frontImg": "http://p1.meituan.net/w.h/tdchotel/b5f8278c3447d4bb05bf9b3570d32317592124.jpg",
+        "isCooperated": 1,
+        "styles": {
+          "poiLastOrderTime": 2,
+          "scoreIntro": 1,
+          "poiSaleAndSpanTag": 2,
+          "poiRecommendTag": 2
+        },
+        "poiAttrTagList": [
+          "超级团购",
+          "预约发票"
+        ],
+        "fodderInfo": [
+          {
+            "boothId": 1000,
+            "description": "精选皇冠酒店query词",
+            "url": "http://p0.meituan.net/hotelnoah/2134234f0ebd4acd817e61d6445a2f59.png"
+          },
+          {
+            "boothId": 9003029,
+            "description": "top精选优质酒店高星酒店",
+            "url": "http://p0.meituan.net/hotelnoah/81d1f238517946d3bb26dc7837ac5bc3.png"
+          }
+        ],
+        "showType": "hotel",
+        "addr": "南明区都司高架桥路33号（亨特城市广场）",
+        "cityName": "贵阳",
+        "cityId": 107,
+        "poiid": 82845819,
+        "realPoiId": 82845819,
+        "cooperationInfo": "",
+        "areaId": 30658,
+        "areaName": "市西路/大十字广场",
+        "cates": "20,20426,20606,80,20625,20706,20963,20707,20851",
+        "hasGroup": false,
+        "zlSourceType": 1,
+        "sourceType": 1,
+        "hourRoomSpan": 0,
+        "name": "贵阳亨特索菲特酒店",
+        "hasPackage": true,
+        "lat": 26.575806,
+        "lng": 106.719421,
+        "markNumbers": 197,
+        "dist": 1364394.125,
+        "flagshipFlag": false,
+        "lowestPrice": 1091,
+        "notRoundedLowestPrice": 109022,
+        "dayRoomSpan": 1,
+        "hotelStar": "豪华型",
+        "hotelAppointmentExtType": 2,
+        "withoutAds": true,
+        "historyCouponCount": 4891,
+        "posdescr": "市西路/大十字广场 | 贵州省人民医院附近",
+        "useTime": "",
+        "brandId": 880836,
+        "avgScore": 4.7,
+        "shopId": 32636217,
+        "roomType": "",
+        "serviceDesc": [],
+        "poiSaleAndSpanTag": "1000+消费",
+        "poiRecommendTag": "豪华型",
+        "poiLastOrderTime": "",
+        "scoreIntro": "4.7分 很好",
+        "originalPriceDesc": "",
+        "originalPrice": 1091.0,
+        "notRoundedOriginalPrice": 109022,
+        "showOriginalPrice": false,
+        "priceType": 1,
+        "taxFee": 0.0,
+        "commentsCountDesc": "608条评论",
+        "poiTagList": [
+          {
+            "text": "超级团购",
+            "textColor": "#008489",
+            "backgroundColor": "",
+            "borderColor": "#008489",
+            "imgUrl": "",
+            "imgWidth": 0,
+            "imgHeight": 0
+          },
+          {
+            "text": "预约发票",
+            "textColor": "#008489",
+            "backgroundColor": "",
+            "borderColor": "#008489",
+            "imgWidth": 0,
+            "imgHeight": 0
+          },
+          {
+            "text": "山景房",
+            "textColor": "#6E6E6E",
+            "backgroundColor": "",
+            "borderColor": "#6E6E6E",
+            "imgUrl": "",
+            "imgWidth": 0,
+            "imgHeight": 0
+          },
+          {
+            "text": "森林吸氧",
+            "textColor": "#6E6E6E",
+            "backgroundColor": "",
+            "borderColor": "#6E6E6E",
+            "imgUrl": "",
+            "imgWidth": 0,
+            "imgHeight": 0
+          },
+          {
+            "text": "亲子酒店",
+            "textColor": "#6E6E6E",
+            "backgroundColor": "",
+            "borderColor": "#6E6E6E",
+            "imgUrl": "",
+            "imgWidth": 0,
+            "imgHeight": 0
+          }
+        ],
+        "imageConfig": {
+          "headerImage": "https://p0.meituan.net/travelcube/4d17e6189e27a3e8ad489df7491ff79f3808.png",
+          "headerImageType": "HIGH_STAR"
+        },
+        "recommendInfo": {
+          "text": "雅高旗下品牌",
+          "imageUrl": "https://p0.meituan.net/travelcube/4d17e6189e27a3e8ad489df7491ff79f3808.png",
+          "textColor": "#8D5C29",
+          "mustLive": false,
+          "brandImageUrl": "https://p0.meituan.net/travelcube/4d17e6189e27a3e8ad489df7491ff79f3808.png"
+        },
+        "ugcInfo": "",
+        "poiType": 0,
+        "recommedReason": "",
+        "forward": {
+          "highHotelStar": true,
+          "albumCount": 86,
+          "poiExtendsInfosDesc": [
+            "2017年装修",
+            "2017年开业"
+          ],
+          "commentCount": 608,
+          "posdec": "",
+          "serviceIcons": [
+            {
+              "attrDesc": "快速入住退房",
+              "iconUrl": "https://p0.meituan.net/travelcube/1cbceb68337af34ea4493a820a6e71fa1821.png",
+              "attrId": 101174
+            },
+            {
+              "attrDesc": "健身室",
+              "iconUrl": "https://p1.meituan.net/travelcube/c26e135010b57965565b702ebbbf6b28659.png",
+              "attrId": 101028
+            },
+            {
+              "attrDesc": "室内泳池免费",
+              "iconUrl": "https://p0.meituan.net/travelcube/4115b4f5a251900fdb8d6bccb42a37c21949.png",
+              "attrId": 101097
+            },
+            {
+              "attrDesc": "免费停车场",
+              "iconUrl": "https://p0.meituan.net/travelcube/b727c2c9174229155c65ba5007ec43161957.png",
+              "attrId": 101006
+            },
+            {
+              "attrDesc": "桑拿浴室",
+              "iconUrl": "https://p1.meituan.net/travelcube/8252517f043c9cfd7f63da8cdc241c831660.png",
+              "attrId": 101022
+            },
+            {
+              "attrDesc": "SPA",
+              "iconUrl": "https://p0.meituan.net/travelcube/7a2ca4af70f3008ee6a1e239aa52a8182121.png",
+              "attrId": 101023
+            },
+            {
+              "attrDesc": "接机服务收费",
+              "iconUrl": "https://p0.meituan.net/travelcube/0e21e407e855e4ce9178ed3fdf41ed991688.png",
+              "attrId": 101183
+            },
+            {
+              "attrDesc": "酒吧",
+              "iconUrl": "https://p0.meituan.net/travelcube/ca27f179b75914f46592449a2ca080921917.png",
+              "attrId": 101011
+            },
+            {
+              "attrDesc": "客房WiFi免费",
+              "iconUrl": "https://p1.meituan.net/travelcube/0195598410d503f125c8777df84b4d6c2053.png",
+              "attrId": 101444
+            },
+            {
+              "attrDesc": "行李寄存免费",
+              "iconUrl": "https://p0.meituan.net/travelcube/8d2498d51447dcffeee8f6ad23ed20b01102.png",
+              "attrId": 101045
+            }
+          ],
+          "serviceTagList": [
+            "山景房",
+            "森林吸氧"
+          ],
+          "scoreInfo": "4.7分 很好",
+          "positionDescList": [],
+          "addrWithoutAdministrativeArea": "都司高架桥路33号"
+        },
+        "dpSuperHotel": false,
+        "merchantMember": false,
+        "videoUrl": "http://s3plus.meituan.net/v1/mss_66f77a3644464b589f2f061a13c82013/hoteltranscoding/hotel-51f3a3a9-465f-4f07-ab30-5a2acd09259f-25699754",
+        "tagRelatedGoodsList": [],
+        "collectionFlag": false,
+        "panoramaAvailable": false,
+        "block": false,
+        "activeAvailable": true,
+        "cellType": "酒店",
+        "hide": false,
+        "spuId": 0
+      },
+      {
+        "historySaleCount": "5000+消费",
+        "frontImg": "http://p0.meituan.net/w.h/tdchotel/470590a502aed11f5bb723d9a430c34b299032.jpg",
+        "isCooperated": 1,
+        "styles": {
+          "poiLastOrderTime": 2,
+          "scoreIntro": 1,
+          "poiSaleAndSpanTag": 2,
+          "poiRecommendTag": 2
+        },
+        "poiAttrTagList": [
+          "预约发票",
+          "近湖景"
+        ],
+        "fodderInfo": [
+          {
+            "boothId": 1000,
+            "description": "精选皇冠酒店query词",
+            "url": "http://p0.meituan.net/hotelnoah/2134234f0ebd4acd817e61d6445a2f59.png"
+          }
+        ],
+        "showType": "hotel",
+        "addr": "南明区中华南路49号",
+        "cityName": "贵阳",
+        "cityId": 107,
+        "poiid": 1474008,
+        "realPoiId": 1474008,
+        "cooperationInfo": "",
+        "areaId": 30659,
+        "areaName": "河滨公园/甲秀楼",
+        "cates": "20,20426,20606,80,20625,20706,20610,20963,20707",
+        "hasGroup": false,
+        "zlSourceType": 1,
+        "sourceType": 1,
+        "hourRoomSpan": 0,
+        "name": "贵阳喜来登贵航酒店",
+        "hasPackage": true,
+        "lat": 26.571184,
+        "lng": 106.71464,
+        "markNumbers": 877,
+        "dist": 1365051.0,
+        "flagshipFlag": true,
+        "lowestPrice": 747,
+        "notRoundedLowestPrice": 74700,
+        "dayRoomSpan": 1,
+        "hotelStar": "五星级",
+        "hotelAppointmentExtType": 2,
+        "withoutAds": true,
+        "historyCouponCount": 7802,
+        "posdescr": "河滨公园/甲秀楼 | 甲秀楼附近",
+        "useTime": "",
+        "brandId": 347959,
+        "avgScore": 4.3,
+        "shopId": 2723314,
+        "roomType": "",
+        "serviceDesc": [],
+        "poiSaleAndSpanTag": "5000+消费",
+        "poiRecommendTag": "五星级",
+        "poiLastOrderTime": "2小时前有人预订",
+        "scoreIntro": "4.3分 好",
+        "originalPriceDesc": "",
+        "originalPrice": 747.0,
+        "notRoundedOriginalPrice": 74700,
+        "showOriginalPrice": false,
+        "priceType": 1,
+        "taxFee": 0.0,
+        "commentsCountDesc": "1274条评论",
+        "poiTagList": [
+          {
+            "text": "预约发票",
+            "textColor": "#008489",
+            "backgroundColor": "",
+            "borderColor": "#008489",
+            "imgWidth": 0,
+            "imgHeight": 0
+          },
+          {
+            "text": "近湖景",
+            "textColor": "#6E6E6E",
+            "backgroundColor": "",
+            "borderColor": "#6E6E6E",
+            "imgUrl": "",
+            "imgWidth": 0,
+            "imgHeight": 0
+          },
+          {
+            "text": "近火车站",
+            "textColor": "#6E6E6E",
+            "backgroundColor": "",
+            "borderColor": "#6E6E6E",
+            "imgUrl": "",
+            "imgWidth": 0,
+            "imgHeight": 0
+          },
+          {
+            "text": "健身房",
+            "textColor": "#6E6E6E",
+            "backgroundColor": "",
+            "borderColor": "#6E6E6E",
+            "imgUrl": "",
+            "imgWidth": 0,
+            "imgHeight": 0
+          }
+        ],
+        "recommendInfo": {
+          "mustLive": false
+        },
+        "ugcInfo": "",
+        "poiType": 0,
+        "recommedReason": "",
+        "forward": {
+          "highHotelStar": true,
+          "albumCount": 84,
+          "poiExtendsInfosDesc": [
+            "2007年装修",
+            "2007年开业"
+          ],
+          "commentCount": 1274,
+          "posdec": "",
+          "serviceIcons": [
+            {
+              "attrDesc": "快速入住退房",
+              "iconUrl": "https://p0.meituan.net/travelcube/1cbceb68337af34ea4493a820a6e71fa1821.png",
+              "attrId": 101174
+            },
+            {
+              "attrDesc": "健身室",
+              "iconUrl": "https://p1.meituan.net/travelcube/c26e135010b57965565b702ebbbf6b28659.png",
+              "attrId": 101028
+            },
+            {
+              "attrDesc": "室内泳池",
+              "iconUrl": "https://p0.meituan.net/travelcube/4115b4f5a251900fdb8d6bccb42a37c21949.png",
+              "attrId": 101097
+            },
+            {
+              "attrDesc": "停车场",
+              "iconUrl": "https://p0.meituan.net/travelcube/b727c2c9174229155c65ba5007ec43161957.png",
+              "attrId": 101006
+            },
+            {
+              "attrDesc": "桑拿浴室",
+              "iconUrl": "https://p1.meituan.net/travelcube/8252517f043c9cfd7f63da8cdc241c831660.png",
+              "attrId": 101022
+            },
+            {
+              "attrDesc": "SPA",
+              "iconUrl": "https://p0.meituan.net/travelcube/7a2ca4af70f3008ee6a1e239aa52a8182121.png",
+              "attrId": 101023
+            },
+            {
+              "attrDesc": "接机服务",
+              "iconUrl": "https://p0.meituan.net/travelcube/0e21e407e855e4ce9178ed3fdf41ed991688.png",
+              "attrId": 101183
+            },
+            {
+              "attrDesc": "客房WiFi免费",
+              "iconUrl": "https://p1.meituan.net/travelcube/0195598410d503f125c8777df84b4d6c2053.png",
+              "attrId": 101444
+            },
+            {
+              "attrDesc": "行李寄存",
+              "iconUrl": "https://p0.meituan.net/travelcube/8d2498d51447dcffeee8f6ad23ed20b01102.png",
+              "attrId": 101045
+            },
+            {
+              "attrDesc": "咖啡厅",
+              "iconUrl": "https://p1.meituan.net/travelcube/085cc051a1a0b01a5cad1c24204400f61487.png",
+              "attrId": 101096
+            }
+          ],
+          "serviceTagList": [
+            "近火车站",
+            "近湖景"
+          ],
+          "scoreInfo": "4.3分 好",
+          "carEntranceIcon": "https://p1.meituan.net/travelcube/f3fd87298a0f21f9d5d5890c3869280a1531.png",
+          "mapEntranceIcon": "https://p0.meituan.net/travelcube/4c8b25c9551702225a2af318e89876ee2059.png",
+          "carEntranceURL": "imeituan://www.meituan.com/cab/home?qcs_channel=104002&poiName=%E8%B4%B5%E9%98%B3%E5%96%9C%E6%9D%A5%E7%99%BB%E8%B4%B5%E8%88%AA%E9%85%92%E5%BA%97&poiLat=26.571184&poiLng=106.71464",
+          "positionDescList": [
+            {
+              "iconUrl": "https://p1.meituan.net/travelcube/0e8bf65b542a5a4d21f7f78f69c6125d1095.png@36w_36h_80q",
+              "text": "距河滨公园地铁站-A口直线600米,步行850米,约11分钟"
+            }
+          ],
+          "addrWithoutAdministrativeArea": "中华南路49号"
+        },
+        "dpSuperHotel": false,
+        "merchantMember": false,
+        "videoUrl": "http://s3plus.meituan.net/v1/mss_66f77a3644464b589f2f061a13c82013/hoteltranscoding/hotel-47c011c2-f4a0-4525-bdaa-a7c04ca9fc53-10133242",
+        "tagRelatedGoodsList": [],
+        "collectionFlag": false,
+        "panoramaAvailable": false,
+        "block": false,
+        "activeAvailable": true,
+        "cellType": "酒店",
+        "hide": false,
+        "spuId": 0
+      },
+      {
+        "historySaleCount": "200+消费",
+        "frontImg": "http://p0.meituan.net/w.h/tdchoteldark/6559e21b100d70235f5f1385a9440c28339384.jpg",
+        "isCooperated": 1,
+        "styles": {
+          "poiLastOrderTime": 2,
+          "scoreIntro": 1,
+          "poiSaleAndSpanTag": 2,
+          "poiRecommendTag": 2
+        },
+        "poiAttrTagList": [
+          "新开业/新装修",
+          "健身房"
+        ],
+        "fodderInfo": [
+          {
+            "boothId": 1000,
+            "description": "query返工安心住ss",
+            "url": "http://p0.meituan.net/hotelnoah/e678fa9d7f6748248604015adb50138b.png"
+          }
+        ],
+        "showType": "hotel",
+        "addr": "观山湖区金阳北路277号",
+        "cityName": "贵阳",
+        "cityId": 107,
+        "poiid": 195880155,
+        "realPoiId": 195880155,
+        "cooperationInfo": "",
+        "areaId": 30664,
+        "areaName": "观山湖地区",
+        "cates": "20,20426,20606,80,20625,20706,20963,20707,20851",
+        "hasGroup": false,
+        "zlSourceType": 1,
+        "sourceType": 1,
+        "hourRoomSpan": 0,
+        "name": "贵阳东景希尔顿酒店",
+        "hasPackage": true,
+        "lat": 26.651,
+        "lng": 106.622659,
+        "markNumbers": 10,
+        "dist": 1360336.875,
+        "flagshipFlag": false,
+        "lowestPrice": 768,
+        "notRoundedLowestPrice": 76723,
+        "dayRoomSpan": 1,
+        "hotelStar": "豪华型",
+        "hotelAppointmentExtType": 2,
+        "withoutAds": true,
+        "historyCouponCount": 297,
+        "posdescr": "观山湖地区",
+        "useTime": "",
+        "brandId": 501033,
+        "avgScore": 4.5,
+        "shopId": 132885854,
+        "roomType": "",
+        "serviceDesc": [],
+        "poiSaleAndSpanTag": "200+消费",
+        "poiRecommendTag": "豪华型",
+        "poiLastOrderTime": "贵阳观山湖万达广场附近优质酒店",
+        "scoreIntro": "4.5分 好",
+        "originalPriceDesc": "",
+        "originalPrice": 768.0,
+        "notRoundedOriginalPrice": 76723,
+        "showOriginalPrice": false,
+        "priceType": 1,
+        "taxFee": 0.0,
+        "commentsCountDesc": "74条评论",
+        "poiTagList": [
+          {
+            "text": "新开业/新装修",
+            "textColor": "#6E6E6E",
+            "backgroundColor": "",
+            "borderColor": "#6E6E6E",
+            "imgUrl": "",
+            "imgWidth": 0,
+            "imgHeight": 0
+          },
+          {
+            "text": "健身房",
+            "textColor": "#6E6E6E",
+            "backgroundColor": "",
+            "borderColor": "#6E6E6E",
+            "imgUrl": "",
+            "imgWidth": 0,
+            "imgHeight": 0
+          },
+          {
+            "text": "游泳池",
+            "textColor": "#6E6E6E",
+            "backgroundColor": "",
+            "borderColor": "#6E6E6E",
+            "imgUrl": "",
+            "imgWidth": 0,
+            "imgHeight": 0
+          }
+        ],
+        "imageConfig": {
+          "headerImage": "https://p0.meituan.net/travelcube/6100558a74622b5ca9a97862f2b8d3353629.png",
+          "headerImageType": "HIGH_STAR"
+        },
+        "recommendInfo": {
+          "text": "希尔顿旗下品牌",
+          "imageUrl": "https://p0.meituan.net/travelcube/6100558a74622b5ca9a97862f2b8d3353629.png",
+          "textColor": "#8D5C29",
+          "mustLive": false,
+          "brandImageUrl": "https://p0.meituan.net/travelcube/6100558a74622b5ca9a97862f2b8d3353629.png"
+        },
+        "ugcInfo": "",
+        "poiType": 0,
+        "recommedReason": "",
+        "forward": {
+          "highHotelStar": true,
+          "albumCount": 57,
+          "poiExtendsInfosDesc": [
+            "2019年装修",
+            "2019年开业"
+          ],
+          "commentCount": 74,
+          "posdec": "",
+          "serviceIcons": [
+            {
+              "attrDesc": "中餐厅",
+              "iconUrl": "https://p0.meituan.net/travelcube/e566ecb97a5e1e0bcd2bab0ad3be784e1752.png",
+              "attrId": 101092
+            },
+            {
+              "attrDesc": "室内泳池免费",
+              "iconUrl": "https://p0.meituan.net/travelcube/4115b4f5a251900fdb8d6bccb42a37c21949.png",
+              "attrId": 101097
+            },
+            {
+              "attrDesc": "快速入住退房",
+              "iconUrl": "https://p0.meituan.net/travelcube/1cbceb68337af34ea4493a820a6e71fa1821.png",
+              "attrId": 101174
+            },
+            {
+              "attrDesc": "健身室",
+              "iconUrl": "https://p1.meituan.net/travelcube/c26e135010b57965565b702ebbbf6b28659.png",
+              "attrId": 101028
+            },
+            {
+              "attrDesc": "免费停车场",
+              "iconUrl": "https://p0.meituan.net/travelcube/b727c2c9174229155c65ba5007ec43161957.png",
+              "attrId": 101006
+            },
+            {
+              "attrDesc": "桑拿浴室",
+              "iconUrl": "https://p1.meituan.net/travelcube/8252517f043c9cfd7f63da8cdc241c831660.png",
+              "attrId": 101022
+            },
+            {
+              "attrDesc": "SPA",
+              "iconUrl": "https://p0.meituan.net/travelcube/7a2ca4af70f3008ee6a1e239aa52a8182121.png",
+              "attrId": 101023
+            },
+            {
+              "attrDesc": "接机服务收费",
+              "iconUrl": "https://p0.meituan.net/travelcube/0e21e407e855e4ce9178ed3fdf41ed991688.png",
+              "attrId": 101183
+            },
+            {
+              "attrDesc": "酒吧",
+              "iconUrl": "https://p0.meituan.net/travelcube/ca27f179b75914f46592449a2ca080921917.png",
+              "attrId": 101011
+            },
+            {
+              "attrDesc": "客房WiFi免费",
+              "iconUrl": "https://p1.meituan.net/travelcube/0195598410d503f125c8777df84b4d6c2053.png",
+              "attrId": 101444
+            }
+          ],
+          "serviceTagList": [
+            "新开业/新装修",
+            "健身房"
+          ],
+          "scoreInfo": "4.5分 好",
+          "positionDescList": [],
+          "addrWithoutAdministrativeArea": "金阳北路277号"
+        },
+        "dpSuperHotel": false,
+        "merchantMember": false,
+        "videoUrl": "http://s3plus.meituan.net/v1/mss_66f77a3644464b589f2f061a13c82013/hoteltranscoding/hotel-811798dd-e1b2-4431-a6fe-209b9d6a32e8-16524782",
+        "tagRelatedGoodsList": [],
+        "collectionFlag": false,
+        "panoramaAvailable": false,
+        "block": false,
+        "activeAvailable": true,
+        "cellType": "酒店",
+        "hide": false,
+        "spuId": 0
+      },
+      {
+        "historySaleCount": "1000+消费",
+        "frontImg": "http://p0.meituan.net/w.h/tdchoteldark/66481b4b0f71fc137aa6836a51d7b6eb706669.jpg",
+        "isCooperated": 1,
+        "styles": {
+          "poiLastOrderTime": 2,
+          "scoreIntro": 1,
+          "poiSaleAndSpanTag": 2,
+          "poiRecommendTag": 2
+        },
+        "poiAttrTagList": [
+          "亲子酒店",
+          "停车场"
+        ],
+        "fodderInfo": [],
+        "showType": "hotel",
+        "addr": "乌当区新添大道北段150号",
+        "cityName": "贵阳",
+        "cityId": 107,
+        "poiid": 150555816,
+        "realPoiId": 150555816,
+        "cooperationInfo": "",
+        "areaId": 29326,
+        "areaName": "新添寨附近地区",
+        "cates": "20,20426,20606,80,20625,20706,20963,20707,20851",
+        "hasGroup": false,
+        "zlSourceType": 1,
+        "sourceType": 1,
+        "hourRoomSpan": 0,
+        "name": "万象温泉度假酒店",
+        "hasPackage": true,
+        "lat": 26.64993,
+        "lng": 106.782717,
+        "markNumbers": 71,
+        "dist": 1354375.0,
+        "flagshipFlag": true,
+        "lowestPrice": 387,
+        "notRoundedLowestPrice": 38681,
+        "dayRoomSpan": 1,
+        "hotelStar": "豪华型",
+        "hotelAppointmentExtType": 2,
+        "withoutAds": true,
+        "historyCouponCount": 1907,
+        "posdescr": "新添寨附近地区",
+        "useTime": "",
+        "brandId": 0,
+        "avgScore": 4.4,
+        "shopId": 77457878,
+        "roomType": "",
+        "serviceDesc": [],
+        "poiSaleAndSpanTag": "1000+消费",
+        "poiRecommendTag": "豪华型",
+        "poiLastOrderTime": "",
+        "scoreIntro": "4.4分 好",
+        "originalPriceDesc": "",
+        "originalPrice": 387.0,
+        "notRoundedOriginalPrice": 38681,
+        "showOriginalPrice": false,
+        "priceType": 1,
+        "taxFee": 0.0,
+        "commentsCountDesc": "148条评论",
+        "poiTagList": [
+          {
+            "text": "亲子酒店",
+            "textColor": "#6E6E6E",
+            "backgroundColor": "",
+            "borderColor": "#6E6E6E",
+            "imgUrl": "",
+            "imgWidth": 0,
+            "imgHeight": 0
+          },
+          {
+            "text": "停车场",
+            "textColor": "#6E6E6E",
+            "backgroundColor": "",
+            "borderColor": "#6E6E6E",
+            "imgUrl": "",
+            "imgWidth": 0,
+            "imgHeight": 0
+          },
+          {
+            "text": "亲子主题房",
+            "textColor": "#6E6E6E",
+            "backgroundColor": "",
+            "borderColor": "#6E6E6E",
+            "imgUrl": "",
+            "imgWidth": 0,
+            "imgHeight": 0
+          }
+        ],
+        "recommendInfo": {
+          "mustLive": false
+        },
+        "ugcInfo": "",
+        "poiType": 0,
+        "recommedReason": "",
+        "forward": {
+          "highHotelStar": true,
+          "albumCount": 50,
+          "poiExtendsInfosDesc": [
+            "2018年装修",
+            "2018年开业"
+          ],
+          "commentCount": 148,
+          "posdec": "",
+          "serviceIcons": [
+            {
+              "attrDesc": "24小时前台",
+              "iconUrl": "https://p1.meituan.net/travelcube/e6ffc7739829356f3b6711a254c958d5901.png",
+              "attrId": 101041
+            },
+            {
+              "attrDesc": "桌球室",
+              "iconUrl": "https://p0.meituan.net/travelcube/2642bbb7a395525a4ddb4069320636162814.png",
+              "attrId": 101030
+            },
+            {
+              "attrDesc": "乒乓球室",
+              "iconUrl": "https://p1.meituan.net/travelcube/7799e05befe92d972433f583f595ffd82215.png",
+              "attrId": 101032
+            },
+            {
+              "attrDesc": "免费停车场",
+              "iconUrl": "https://p0.meituan.net/travelcube/b727c2c9174229155c65ba5007ec43161957.png",
+              "attrId": 101006
+            },
+            {
+              "attrDesc": "接机服务收费",
+              "iconUrl": "https://p0.meituan.net/travelcube/0e21e407e855e4ce9178ed3fdf41ed991688.png",
+              "attrId": 101183
+            },
+            {
+              "attrDesc": "客房WiFi免费",
+              "iconUrl": "https://p1.meituan.net/travelcube/0195598410d503f125c8777df84b4d6c2053.png",
+              "attrId": 101444
+            },
+            {
+              "attrDesc": "行李寄存",
+              "iconUrl": "https://p0.meituan.net/travelcube/8d2498d51447dcffeee8f6ad23ed20b01102.png",
+              "attrId": 101045
+            },
+            {
+              "attrDesc": "棋牌室",
+              "iconUrl": "https://p0.meituan.net/travelcube/f00cf418109d5e0fb23573c6800f485e1665.png",
+              "attrId": 101019
+            },
+            {
+              "attrDesc": "茶室",
+              "iconUrl": "https://p0.meituan.net/travelcube/513c442a46210ba91b765b588fe62d042004.png",
+              "attrId": 101095
+            },
+            {
+              "attrDesc": "多功能厅",
+              "iconUrl": "https://p0.meituan.net/travelcube/63f3b056ecd500e8e14e47d84818828c1691.png",
+              "attrId": 101325
+            }
+          ],
+          "serviceTagList": [
+            "亲子酒店",
+            "停车场"
+          ],
+          "scoreInfo": "4.4分 好",
+          "carEntranceIcon": "https://p1.meituan.net/travelcube/f3fd87298a0f21f9d5d5890c3869280a1531.png",
+          "mapEntranceIcon": "https://p0.meituan.net/travelcube/4c8b25c9551702225a2af318e89876ee2059.png",
+          "carEntranceURL": "imeituan://www.meituan.com/cab/home?qcs_channel=104002&poiName=%E4%B8%87%E8%B1%A1%E6%B8%A9%E6%B3%89%E5%BA%A6%E5%81%87%E9%85%92%E5%BA%97&poiLat=26.64993&poiLng=106.782717",
+          "positionDescList": [
+            {
+              "iconUrl": "https://p1.meituan.net/travelcube/0e8bf65b542a5a4d21f7f78f69c6125d1095.png@36w_36h_80q",
+              "text": "距雅关地铁站-A1口直线8.1公里,驾车16.2公里,约34分钟"
+            }
+          ],
+          "addrWithoutAdministrativeArea": "新添大道北段150号"
+        },
+        "dpSuperHotel": false,
+        "merchantMember": false,
+        "videoUrl": "http://s3plus.meituan.net/v1/mss_66f77a3644464b589f2f061a13c82013/hoteltranscoding/hotel-d7cb65d5-1dd8-48dd-8468-5d67ed758248-1358277",
+        "tagRelatedGoodsList": [],
+        "collectionFlag": false,
+        "panoramaAvailable": false,
+        "block": false,
+        "activeAvailable": true,
+        "cellType": "酒店",
+        "hide": false,
+        "spuId": 0
+      },
+      {
+        "historySaleCount": "1000+消费",
+        "frontImg": "http://p0.meituan.net/w.h/tdchotel/36240ca88595dcee4cc91bc842c0dd49495213.png",
+        "isCooperated": 1,
+        "styles": {
+          "poiLastOrderTime": 2,
+          "scoreIntro": 1,
+          "poiSaleAndSpanTag": 2,
+          "poiRecommendTag": 2
+        },
+        "poiAttrTagList": [
+          "近湖景",
+          "近地铁"
+        ],
+        "fodderInfo": [],
+        "showType": "hotel",
+        "addr": "观山湖区林城东路8号",
+        "cityName": "贵阳",
+        "cityId": 107,
+        "poiid": 1533897,
+        "realPoiId": 1533897,
+        "cooperationInfo": "",
+        "areaId": 1014021,
+        "areaName": "国际展览中心/金融城",
+        "cates": "20,20426,20606,80,20625,20706,20963,20707,20851",
+        "hasGroup": false,
+        "zlSourceType": 1,
+        "sourceType": 1,
+        "hourRoomSpan": 0,
+        "name": "贵阳万丽酒店",
+        "hasPackage": true,
+        "lat": 26.644182,
+        "lng": 106.624837,
+        "markNumbers": 551,
+        "dist": 1360953.625,
+        "flagshipFlag": true,
+        "lowestPrice": 679,
+        "notRoundedLowestPrice": 67900,
+        "dayRoomSpan": 1,
+        "hotelStar": "豪华型",
+        "hotelAppointmentExtType": 2,
+        "withoutAds": true,
+        "historyCouponCount": 2643,
+        "posdescr": "国际展览中心/金融城 | 观山湖公园站附近",
+        "useTime": "",
+        "brandId": 1623249,
+        "avgScore": 4.6,
+        "shopId": 6128273,
+        "roomType": "",
+        "serviceDesc": [],
+        "poiSaleAndSpanTag": "1000+消费",
+        "poiRecommendTag": "豪华型",
+        "poiLastOrderTime": "",
+        "scoreIntro": "4.6分 很好",
+        "originalPriceDesc": "",
+        "originalPrice": 679.0,
+        "notRoundedOriginalPrice": 67900,
+        "showOriginalPrice": false,
+        "priceType": 1,
+        "taxFee": 0.0,
+        "commentsCountDesc": "914条评论",
+        "poiTagList": [
+          {
+            "text": "近湖景",
+            "textColor": "#6E6E6E",
+            "backgroundColor": "",
+            "borderColor": "#6E6E6E",
+            "imgUrl": "",
+            "imgWidth": 0,
+            "imgHeight": 0
+          },
+          {
+            "text": "近地铁",
+            "textColor": "#6E6E6E",
+            "backgroundColor": "",
+            "borderColor": "#6E6E6E",
+            "imgWidth": 0,
+            "imgHeight": 0
+          },
+          {
+            "text": "健身房",
+            "textColor": "#6E6E6E",
+            "backgroundColor": "",
+            "borderColor": "#6E6E6E",
+            "imgUrl": "",
+            "imgWidth": 0,
+            "imgHeight": 0
+          }
+        ],
+        "recommendInfo": {
+          "mustLive": false
+        },
+        "ugcInfo": "",
+        "poiType": 0,
+        "recommedReason": "",
+        "forward": {
+          "highHotelStar": true,
+          "albumCount": 154,
+          "poiExtendsInfosDesc": [
+            "2012年装修",
+            "2012年开业"
+          ],
+          "commentCount": 914,
+          "posdec": "",
+          "serviceIcons": [
+            {
+              "attrDesc": "快速入住退房",
+              "iconUrl": "https://p0.meituan.net/travelcube/1cbceb68337af34ea4493a820a6e71fa1821.png",
+              "attrId": 101174
+            },
+            {
+              "attrDesc": "桌球室",
+              "iconUrl": "https://p0.meituan.net/travelcube/2642bbb7a395525a4ddb4069320636162814.png",
+              "attrId": 101030
+            },
+            {
+              "attrDesc": "健身室",
+              "iconUrl": "https://p1.meituan.net/travelcube/c26e135010b57965565b702ebbbf6b28659.png",
+              "attrId": 101028
+            },
+            {
+              "attrDesc": "免费停车场",
+              "iconUrl": "https://p0.meituan.net/travelcube/b727c2c9174229155c65ba5007ec43161957.png",
+              "attrId": 101006
+            },
+            {
+              "attrDesc": "室内泳池",
+              "iconUrl": "https://p0.meituan.net/travelcube/4115b4f5a251900fdb8d6bccb42a37c21949.png",
+              "attrId": 101097
+            },
+            {
+              "attrDesc": "桑拿浴室",
+              "iconUrl": "https://p1.meituan.net/travelcube/8252517f043c9cfd7f63da8cdc241c831660.png",
+              "attrId": 101022
+            },
+            {
+              "attrDesc": "接机服务",
+              "iconUrl": "https://p0.meituan.net/travelcube/0e21e407e855e4ce9178ed3fdf41ed991688.png",
+              "attrId": 101183
+            },
+            {
+              "attrDesc": "KTV",
+              "iconUrl": "https://p0.meituan.net/travelcube/3cbf633c01e193caf90c6e4aad9928172120.png",
+              "attrId": 101313
+            },
+            {
+              "attrDesc": "酒吧",
+              "iconUrl": "https://p0.meituan.net/travelcube/ca27f179b75914f46592449a2ca080921917.png",
+              "attrId": 101011
+            },
+            {
+              "attrDesc": "客房WiFi免费",
+              "iconUrl": "https://p1.meituan.net/travelcube/0195598410d503f125c8777df84b4d6c2053.png",
+              "attrId": 101444
+            }
+          ],
+          "serviceTagList": [
+            "近地铁",
+            "近湖景"
+          ],
+          "scoreInfo": "4.6分 很好",
+          "carEntranceIcon": "https://p1.meituan.net/travelcube/f3fd87298a0f21f9d5d5890c3869280a1531.png",
+          "mapEntranceIcon": "https://p0.meituan.net/travelcube/4c8b25c9551702225a2af318e89876ee2059.png",
+          "carEntranceURL": "imeituan://www.meituan.com/cab/home?qcs_channel=104002&poiName=%E8%B4%B5%E9%98%B3%E4%B8%87%E4%B8%BD%E9%85%92%E5%BA%97&poiLat=26.644182&poiLng=106.624837",
+          "positionDescList": [
+            {
+              "iconUrl": "https://p1.meituan.net/travelcube/0e8bf65b542a5a4d21f7f78f69c6125d1095.png@36w_36h_80q",
+              "text": "距观山湖公园地铁站-口直线450米,步行950米,约12分钟"
+            }
+          ],
+          "addrWithoutAdministrativeArea": "林城东路8号"
+        },
+        "dpSuperHotel": false,
+        "merchantMember": false,
+        "videoUrl": "http://s3plus.meituan.net/v1/mss_66f77a3644464b589f2f061a13c82013/hoteltranscoding/hotel-c9b707ca-1854-4231-96e8-a564dcc3c246-1475088",
+        "tagRelatedGoodsList": [],
+        "collectionFlag": false,
+        "panoramaAvailable": false,
+        "block": false,
+        "activeAvailable": true,
+        "cellType": "酒店",
+        "hide": false,
+        "spuId": 0
+      },
+      {
+        "historySaleCount": "5000+消费",
+        "frontImg": "http://p0.meituan.net/w.h/tdchotel/573c22e2bfafd7de85bbba6884e96dd6416628.png",
+        "isCooperated": 1,
+        "styles": {
+          "poiLastOrderTime": 2,
+          "scoreIntro": 1,
+          "poiSaleAndSpanTag": 2,
+          "poiRecommendTag": 2
+        },
+        "poiAttrTagList": [
+          "停车场",
+          "商务出行"
+        ],
+        "fodderInfo": [],
+        "showType": "hotel",
+        "addr": "观山湖区北京西路6号（近金阳南路）",
+        "cityName": "贵阳",
+        "cityId": 107,
+        "poiid": 2370619,
+        "realPoiId": 2370619,
+        "cooperationInfo": "",
+        "areaId": 30664,
+        "areaName": "观山湖地区",
+        "cates": "20,20426,20606,80,20625,20706,20610,20963,20707,21145",
+        "hasGroup": false,
+        "zlSourceType": 1,
+        "sourceType": 1,
+        "hourRoomSpan": 0,
+        "name": "贵阳世纪金源大饭店",
+        "hasPackage": false,
+        "lat": 26.600756,
+        "lng": 106.621418,
+        "markNumbers": 527,
+        "dist": 1365546.375,
+        "flagshipFlag": true,
+        "lowestPrice": 626,
+        "notRoundedLowestPrice": 62600,
+        "dayRoomSpan": 1,
+        "hotelStar": "五星级",
+        "hotelAppointmentExtType": 2,
+        "withoutAds": true,
+        "historyCouponCount": 17578,
+        "posdescr": "观山湖地区 | 观山湖行政中心附近",
+        "useTime": "",
+        "brandId": 119873,
+        "avgScore": 4.4,
+        "shopId": 13755746,
+        "roomType": "",
+        "serviceDesc": [],
+        "poiSaleAndSpanTag": "5000+消费",
+        "poiRecommendTag": "五星级",
+        "poiLastOrderTime": "",
+        "scoreIntro": "4.4分 好",
+        "originalPriceDesc": "",
+        "originalPrice": 626.0,
+        "notRoundedOriginalPrice": 62600,
+        "showOriginalPrice": false,
+        "priceType": -1,
+        "taxFee": 0.0,
+        "commentsCountDesc": "738条评论",
+        "poiTagList": [],
+        "recommendInfo": {
+          "mustLive": false
+        },
+        "ugcInfo": "",
+        "poiType": 0,
+        "recommedReason": "",
+        "forward": {
+          "highHotelStar": true,
+          "albumCount": 48,
+          "poiExtendsInfosDesc": [
+            "2014年装修",
+            "2009年开业"
+          ],
+          "commentCount": 738,
+          "posdec": "",
+          "serviceIcons": [
+            {
+              "attrDesc": "24小时前台",
+              "iconUrl": "https://p1.meituan.net/travelcube/e6ffc7739829356f3b6711a254c958d5901.png",
+              "attrId": 101041
+            },
+            {
+              "attrDesc": "免费停车场",
+              "iconUrl": "https://p0.meituan.net/travelcube/b727c2c9174229155c65ba5007ec43161957.png",
+              "attrId": 101006
+            },
+            {
+              "attrDesc": "接机服务",
+              "iconUrl": "https://p0.meituan.net/travelcube/0e21e407e855e4ce9178ed3fdf41ed991688.png",
+              "attrId": 101183
+            },
+            {
+              "attrDesc": "客房WiFi免费",
+              "iconUrl": "https://p1.meituan.net/travelcube/0195598410d503f125c8777df84b4d6c2053.png",
+              "attrId": 101444
+            },
+            {
+              "attrDesc": "行李寄存",
+              "iconUrl": "https://p0.meituan.net/travelcube/8d2498d51447dcffeee8f6ad23ed20b01102.png",
+              "attrId": 101045
+            },
+            {
+              "attrDesc": "VIP通道入住",
+              "iconUrl": "https://p0.meituan.net/travelcube/6caa5c2f25a9146435ba3894fa8817351647.png",
+              "attrId": 101315
+            },
+            {
+              "attrDesc": "24小时大堂经理",
+              "iconUrl": "https://p0.meituan.net/travelcube/cb8b82378a2eeffb8946463bb86089f22399.png",
+              "attrId": 101322
+            },
+            {
+              "attrDesc": "多功能厅",
+              "iconUrl": "https://p0.meituan.net/travelcube/63f3b056ecd500e8e14e47d84818828c1691.png",
+              "attrId": 101325
+            },
+            {
+              "attrDesc": "会议厅",
+              "iconUrl": "https://p1.meituan.net/travelcube/c631e90765fe0fa4591f14b4e061c3b01176.png",
+              "attrId": 101031
+            },
+            {
+              "attrDesc": "商务服务",
+              "iconUrl": "https://p0.meituan.net/travelcube/31dc2a267366670d011f416fba6f36eb874.png",
+              "attrId": 101354
+            }
+          ],
+          "serviceTagList": [
+            "停车场",
+            "商务出行"
+          ],
+          "scoreInfo": "4.4分 好",
+          "carEntranceIcon": "https://p1.meituan.net/travelcube/f3fd87298a0f21f9d5d5890c3869280a1531.png",
+          "mapEntranceIcon": "https://p0.meituan.net/travelcube/4c8b25c9551702225a2af318e89876ee2059.png",
+          "carEntranceURL": "dianping://qcschomepage?url=https%3A%2F%2Fdache.meituan.com%2Fent%2Fdache%2Fhome%3FchannelId%3D202%26mapEngineType%3D0%26qcs_channel%3D104002%26poiName%3D%25E8%25B4%25B5%25E9%2598%25B3%25E4%25B8%2596%25E7%25BA%25AA%25E9%2587%2591%25E6%25BA%2590%25E5%25A4%25A7%25E9%25A5%25AD%25E5%25BA%2597%26poiLat%3D26.600756%26poiLng%3D106.621418",
+          "positionDescList": [
+            {
+              "iconUrl": "https://p1.meituan.net/travelcube/0e8bf65b542a5a4d21f7f78f69c6125d1095.png@36w_36h_80q",
+              "text": "距观山湖公园地铁站-口直线4.4公里,驾车5.9公里,约21分钟"
+            }
+          ],
+          "addrWithoutAdministrativeArea": "北京西路6号"
+        },
+        "dpSuperHotel": false,
+        "merchantMember": false,
+        "videoUrl": "http://s3plus.meituan.net/v1/mss_66f77a3644464b589f2f061a13c82013/hoteltranscoding/hotel-72edc1fe-39f4-4fd7-9d32-85d24b0c5efb-8295866",
+        "tagRelatedGoodsList": [],
+        "collectionFlag": false,
+        "panoramaAvailable": false,
+        "block": false,
+        "activeAvailable": true,
+        "cellType": "酒店",
+        "hide": false,
+        "spuId": 0
+      },
+      {
+        "historySaleCount": "1000+消费",
+        "frontImg": "http://p0.meituan.net/w.h/tdchoteldark/e3dad4edcb195da2114d9315d4230293766988.jpg",
+        "isCooperated": 1,
+        "styles": {
+          "poiLastOrderTime": 2,
+          "scoreIntro": 1,
+          "poiSaleAndSpanTag": 2,
+          "poiRecommendTag": 2
+        },
+        "poiAttrTagList": [
+          "近湖景",
+          "近火车站"
+        ],
+        "fodderInfo": [
+          {
+            "boothId": 1000,
+            "description": "精选皇冠酒店query词",
+            "url": "http://p0.meituan.net/hotelnoah/2134234f0ebd4acd817e61d6445a2f59.png"
+          }
+        ],
+        "showType": "hotel",
+        "addr": "观山湖区西二环84号北大资源梦想城军创大厦1楼",
+        "cityName": "贵阳",
+        "cityId": 107,
+        "poiid": 183214101,
+        "realPoiId": 183214101,
+        "cooperationInfo": "",
+        "areaId": 30849,
+        "areaName": "贵阳火车北站",
+        "cates": "20,20426,20606,80,20625,20706,20963,20707,20851",
+        "hasGroup": false,
+        "zlSourceType": 1,
+        "sourceType": 1,
+        "hourRoomSpan": 0,
+        "name": "军阅国际酒店",
+        "hasPackage": true,
+        "lat": 26.625591,
+        "lng": 106.66914,
+        "markNumbers": 13,
+        "dist": 1361172.5,
+        "flagshipFlag": false,
+        "lowestPrice": 444,
+        "notRoundedLowestPrice": 44396,
+        "dayRoomSpan": 1,
+        "hotelStar": "豪华型",
+        "hotelAppointmentExtType": 2,
+        "withoutAds": true,
+        "historyCouponCount": 1019,
+        "posdescr": "贵阳火车北站 | 贵阳北站附近",
+        "useTime": "",
+        "brandId": 0,
+        "avgScore": 4.4,
+        "shopId": 120727625,
+        "roomType": "",
+        "serviceDesc": [],
+        "poiSaleAndSpanTag": "1000+消费",
+        "poiRecommendTag": "豪华型",
+        "poiLastOrderTime": "",
+        "scoreIntro": "4.4分 好",
+        "originalPriceDesc": "",
+        "originalPrice": 444.0,
+        "notRoundedOriginalPrice": 44396,
+        "showOriginalPrice": false,
+        "priceType": 1,
+        "taxFee": 0.0,
+        "commentsCountDesc": "42条评论",
+        "poiTagList": [
+          {
+            "text": "近湖景",
+            "textColor": "#6E6E6E",
+            "backgroundColor": "",
+            "borderColor": "#6E6E6E",
+            "imgUrl": "",
+            "imgWidth": 0,
+            "imgHeight": 0
+          },
+          {
+            "text": "近火车站",
+            "textColor": "#6E6E6E",
+            "backgroundColor": "",
+            "borderColor": "#6E6E6E",
+            "imgUrl": "",
+            "imgWidth": 0,
+            "imgHeight": 0
+          },
+          {
+            "text": "停车场",
+            "textColor": "#6E6E6E",
+            "backgroundColor": "",
+            "borderColor": "#6E6E6E",
+            "imgUrl": "",
+            "imgWidth": 0,
+            "imgHeight": 0
+          }
+        ],
+        "recommendInfo": {
+          "mustLive": false
+        },
+        "ugcInfo": "",
+        "poiType": 0,
+        "recommedReason": "",
+        "forward": {
+          "highHotelStar": true,
+          "albumCount": 46,
+          "poiExtendsInfosDesc": [
+            "2018年装修",
+            "2019年开业"
+          ],
+          "commentCount": 42,
+          "posdec": "",
+          "serviceIcons": [
+            {
+              "attrDesc": "中餐厅",
+              "iconUrl": "https://p0.meituan.net/travelcube/e566ecb97a5e1e0bcd2bab0ad3be784e1752.png",
+              "attrId": 101092
+            },
+            {
+              "attrDesc": "快速入住退房",
+              "iconUrl": "https://p0.meituan.net/travelcube/1cbceb68337af34ea4493a820a6e71fa1821.png",
+              "attrId": 101174
+            },
+            {
+              "attrDesc": "停车场",
+              "iconUrl": "https://p0.meituan.net/travelcube/b727c2c9174229155c65ba5007ec43161957.png",
+              "attrId": 101006
+            },
+            {
+              "attrDesc": "客房WiFi免费",
+              "iconUrl": "https://p1.meituan.net/travelcube/0195598410d503f125c8777df84b4d6c2053.png",
+              "attrId": 101444
+            },
+            {
+              "attrDesc": "行李寄存免费",
+              "iconUrl": "https://p0.meituan.net/travelcube/8d2498d51447dcffeee8f6ad23ed20b01102.png",
+              "attrId": 101045
+            },
+            {
+              "attrDesc": "棋牌室",
+              "iconUrl": "https://p0.meituan.net/travelcube/f00cf418109d5e0fb23573c6800f485e1665.png",
+              "attrId": 101019
+            },
+            {
+              "attrDesc": "茶室",
+              "iconUrl": "https://p0.meituan.net/travelcube/513c442a46210ba91b765b588fe62d042004.png",
+              "attrId": 101095
+            },
+            {
+              "attrDesc": "24小时大堂经理",
+              "iconUrl": "https://p0.meituan.net/travelcube/cb8b82378a2eeffb8946463bb86089f22399.png",
+              "attrId": 101322
+            },
+            {
+              "attrDesc": "多功能厅",
+              "iconUrl": "https://p0.meituan.net/travelcube/63f3b056ecd500e8e14e47d84818828c1691.png",
+              "attrId": 101325
+            },
+            {
+              "attrDesc": "会议厅",
+              "iconUrl": "https://p1.meituan.net/travelcube/c631e90765fe0fa4591f14b4e061c3b01176.png",
+              "attrId": 101031
+            }
+          ],
+          "serviceTagList": [
+            "近湖景",
+            "近火车站"
+          ],
+          "scoreInfo": "4.4分 好",
+          "carEntranceIcon": "https://p1.meituan.net/travelcube/f3fd87298a0f21f9d5d5890c3869280a1531.png",
+          "mapEntranceIcon": "https://p0.meituan.net/travelcube/4c8b25c9551702225a2af318e89876ee2059.png",
+          "carEntranceURL": "imeituan://www.meituan.com/cab/home?qcs_channel=104002&poiName=%E5%86%9B%E9%98%85%E5%9B%BD%E9%99%85%E9%85%92%E5%BA%97&poiLat=26.625591&poiLng=106.66914",
+          "positionDescList": [
+            {
+              "iconUrl": "https://p1.meituan.net/travelcube/0e8bf65b542a5a4d21f7f78f69c6125d1095.png@36w_36h_80q",
+              "text": "距贵阳北站地铁站-D口直线800米,步行1.2公里,约15分钟"
+            }
+          ],
+          "addrWithoutAdministrativeArea": "西二环84号北大资源梦想城军创大厦1楼"
+        },
+        "dpSuperHotel": false,
+        "merchantMember": false,
+        "videoUrl": "http://s3plus.meituan.net/v1/mss_66f77a3644464b589f2f061a13c82013/hoteltranscoding/hotel-e5344c5d-9f7e-4e0c-bb09-50ef788bc78a-6172541",
+        "tagRelatedGoodsList": [],
+        "collectionFlag": false,
+        "panoramaAvailable": false,
+        "block": false,
+        "activeAvailable": true,
+        "cellType": "酒店",
+        "hide": false,
+        "spuId": 0
+      },
+      {
+        "historySaleCount": "1000+消费",
+        "frontImg": "http://p0.meituan.net/w.h/tdchotel/4840cbc27e7410172a018e3444c1b4bc594971.jpg",
+        "isCooperated": 1,
+        "styles": {
+          "poiLastOrderTime": 2,
+          "scoreIntro": 1,
+          "poiSaleAndSpanTag": 2,
+          "poiRecommendTag": 2
+        },
+        "poiAttrTagList": [
+          "森林吸氧",
+          "近湖景"
+        ],
+        "fodderInfo": [
+          {
+            "boothId": 1000,
+            "description": "query返工安心住ss",
+            "url": "http://p0.meituan.net/hotelnoah/e678fa9d7f6748248604015adb50138b.png"
+          }
+        ],
+        "showType": "hotel",
+        "addr": "观山湖区中天路7号中天会展城（近国际会议展览中心）",
+        "cityName": "贵阳",
+        "cityId": 107,
+        "poiid": 1445690,
+        "realPoiId": 1445690,
+        "cooperationInfo": "",
+        "areaId": 1014021,
+        "areaName": "国际展览中心/金融城",
+        "cates": "20,20426,20606,80,20625,20706,20963,20707,20851",
+        "hasGroup": false,
+        "zlSourceType": 1,
+        "sourceType": 1,
+        "hourRoomSpan": 0,
+        "name": "贵阳中天凯悦酒店",
+        "hasPackage": false,
+        "lat": 26.640943,
+        "lng": 106.642719,
+        "markNumbers": 62,
+        "dist": 1360601.625,
+        "flagshipFlag": true,
+        "lowestPrice": 861,
+        "notRoundedLowestPrice": 86051,
+        "dayRoomSpan": 1,
+        "hotelStar": "豪华型",
+        "hotelAppointmentExtType": 2,
+        "withoutAds": true,
+        "historyCouponCount": 2944,
+        "posdescr": "国际展览中心/金融城 | 贵阳国际会议展览中心附近",
+        "useTime": "",
+        "brandId": 1225004,
+        "avgScore": 4.3,
+        "shopId": 4719531,
+        "roomType": "",
+        "serviceDesc": [],
+        "poiSaleAndSpanTag": "1000+消费",
+        "poiRecommendTag": "豪华型",
+        "poiLastOrderTime": "",
+        "scoreIntro": "4.3分 好",
+        "originalPriceDesc": "",
+        "originalPrice": 861.0,
+        "notRoundedOriginalPrice": 86051,
+        "showOriginalPrice": false,
+        "priceType": 1,
+        "taxFee": 0.0,
+        "commentsCountDesc": "373条评论",
+        "poiTagList": [
+          {
+            "text": "森林吸氧",
+            "textColor": "#6E6E6E",
+            "backgroundColor": "",
+            "borderColor": "#6E6E6E",
+            "imgUrl": "",
+            "imgWidth": 0,
+            "imgHeight": 0
+          },
+          {
+            "text": "近湖景",
+            "textColor": "#6E6E6E",
+            "backgroundColor": "",
+            "borderColor": "#6E6E6E",
+            "imgUrl": "",
+            "imgWidth": 0,
+            "imgHeight": 0
+          },
+          {
+            "text": "近地铁",
+            "textColor": "#6E6E6E",
+            "backgroundColor": "",
+            "borderColor": "#6E6E6E",
+            "imgWidth": 0,
+            "imgHeight": 0
+          }
+        ],
+        "recommendInfo": {
+          "mustLive": false
+        },
+        "ugcInfo": "",
+        "poiType": 0,
+        "recommedReason": "",
+        "forward": {
+          "highHotelStar": true,
+          "albumCount": 141,
+          "poiExtendsInfosDesc": [
+            "2011年装修",
+            "2011年开业"
+          ],
+          "commentCount": 373,
+          "posdec": "",
+          "serviceIcons": [
+            {
+              "attrDesc": "中餐厅",
+              "iconUrl": "https://p0.meituan.net/travelcube/e566ecb97a5e1e0bcd2bab0ad3be784e1752.png",
+              "attrId": 101092
+            },
+            {
+              "attrDesc": "室内泳池",
+              "iconUrl": "https://p0.meituan.net/travelcube/4115b4f5a251900fdb8d6bccb42a37c21949.png",
+              "attrId": 101097
+            },
+            {
+              "attrDesc": "快速入住退房",
+              "iconUrl": "https://p0.meituan.net/travelcube/1cbceb68337af34ea4493a820a6e71fa1821.png",
+              "attrId": 101174
+            },
+            {
+              "attrDesc": "水上运动",
+              "iconUrl": "https://p0.meituan.net/travelcube/b10b9c43f723acbc11d522a6b23695c72349.png",
+              "attrId": 101356
+            },
+            {
+              "attrDesc": "日光浴场",
+              "iconUrl": "https://p0.meituan.net/travelcube/b09fd30335fb2cf50453fee07e0fc8a01843.png",
+              "attrId": 101351
+            },
+            {
+              "attrDesc": "免费停车场",
+              "iconUrl": "https://p0.meituan.net/travelcube/b727c2c9174229155c65ba5007ec43161957.png",
+              "attrId": 101006
+            },
+            {
+              "attrDesc": "健身室",
+              "iconUrl": "https://p1.meituan.net/travelcube/c26e135010b57965565b702ebbbf6b28659.png",
+              "attrId": 101028
+            },
+            {
+              "attrDesc": "桑拿浴室",
+              "iconUrl": "https://p1.meituan.net/travelcube/8252517f043c9cfd7f63da8cdc241c831660.png",
+              "attrId": 101022
+            },
+            {
+              "attrDesc": "接机服务收费",
+              "iconUrl": "https://p0.meituan.net/travelcube/0e21e407e855e4ce9178ed3fdf41ed991688.png",
+              "attrId": 101183
+            },
+            {
+              "attrDesc": "酒吧",
+              "iconUrl": "https://p0.meituan.net/travelcube/ca27f179b75914f46592449a2ca080921917.png",
+              "attrId": 101011
+            }
+          ],
+          "serviceTagList": [
+            "近地铁",
+            "近湖景"
+          ],
+          "scoreInfo": "4.3分 好",
+          "carEntranceIcon": "https://p1.meituan.net/travelcube/f3fd87298a0f21f9d5d5890c3869280a1531.png",
+          "mapEntranceIcon": "https://p0.meituan.net/travelcube/4c8b25c9551702225a2af318e89876ee2059.png",
+          "carEntranceURL": "dianping://qcschomepage?url=https%3A%2F%2Fdache.meituan.com%2Fent%2Fdache%2Fhome%3FchannelId%3D202%26mapEngineType%3D0%26qcs_channel%3D104002%26poiName%3D%25E8%25B4%25B5%25E9%2598%25B3%25E4%25B8%25AD%25E5%25A4%25A9%25E5%2587%25AF%25E6%2582%25A6%25E9%2585%2592%25E5%25BA%2597%26poiLat%3D26.640943%26poiLng%3D106.642719",
+          "positionDescList": [
+            {
+              "iconUrl": "https://p1.meituan.net/travelcube/0e8bf65b542a5a4d21f7f78f69c6125d1095.png@36w_36h_80q",
+              "text": "距国际生态会议中心地铁站-C口直线700米,步行1.1公里,约13分钟"
+            }
+          ],
+          "addrWithoutAdministrativeArea": "中天路7号中天会展城"
+        },
+        "dpSuperHotel": false,
+        "merchantMember": false,
+        "videoUrl": "http://s3plus.meituan.net/v1/mss_66f77a3644464b589f2f061a13c82013/hoteltranscoding/hotel-d1530bb9-676d-4bbb-b08f-ad2a03a60a9d-4217330",
+        "tagRelatedGoodsList": [],
+        "collectionFlag": false,
+        "panoramaAvailable": false,
+        "block": false,
+        "activeAvailable": true,
+        "cellType": "酒店",
+        "hide": false,
+        "spuId": 0
+      },
+      {
+        "historySaleCount": "5000+消费",
+        "frontImg": "http://p1.meituan.net/w.h/tdchotel/3d918fd9585470769cc5ee10e8912ce6111714.jpg",
+        "isCooperated": 1,
+        "styles": {
+          "poiLastOrderTime": 2,
+          "scoreIntro": 1,
+          "poiSaleAndSpanTag": 2,
+          "poiRecommendTag": 2
+        },
+        "poiAttrTagList": [
+          "森林吸氧",
+          "近湖景"
+        ],
+        "fodderInfo": [
+          {
+            "boothId": 1000,
+            "description": "精选皇冠酒店query词",
+            "url": "http://p0.meituan.net/hotelnoah/2134234f0ebd4acd817e61d6445a2f59.png"
+          }
+        ],
+        "showType": "hotel",
+        "addr": "乌当区顺海中路88号保利温泉新城内（近绕城高速公路）",
+        "cityName": "贵阳",
+        "cityId": 107,
+        "poiid": 42905377,
+        "realPoiId": 42905377,
+        "cooperationInfo": "",
+        "areaId": 29326,
+        "areaName": "新添寨附近地区",
+        "cates": "20,20426,20606,80,20625,20706,20963,20707,20851,21146",
+        "hasGroup": false,
+        "zlSourceType": 1,
+        "sourceType": 1,
+        "hourRoomSpan": 0,
+        "name": "保利国际温泉酒店",
+        "hasPackage": true,
+        "lat": 26.609421,
+        "lng": 106.759557,
+        "markNumbers": 221,
+        "dist": 1359420.5,
+        "flagshipFlag": true,
+        "lowestPrice": 554,
+        "notRoundedLowestPrice": 55333,
+        "dayRoomSpan": 1,
+        "hotelStar": "豪华型",
+        "hotelAppointmentExtType": 2,
+        "withoutAds": true,
+        "historyCouponCount": 8701,
+        "posdescr": "新添寨附近地区 | 中天未来方舟附近",
+        "useTime": "",
+        "brandId": 0,
+        "avgScore": 4.5,
+        "shopId": 5546546,
+        "roomType": "",
+        "serviceDesc": [],
+        "poiSaleAndSpanTag": "5000+消费",
+        "poiRecommendTag": "豪华型",
+        "poiLastOrderTime": "",
+        "scoreIntro": "4.5分 好",
+        "originalPriceDesc": "",
+        "originalPrice": 554.0,
+        "notRoundedOriginalPrice": 55333,
+        "showOriginalPrice": false,
+        "priceType": 1,
+        "taxFee": 0.0,
+        "commentsCountDesc": "366条评论",
+        "poiTagList": [
+          {
+            "text": "森林吸氧",
+            "textColor": "#6E6E6E",
+            "backgroundColor": "",
+            "borderColor": "#6E6E6E",
+            "imgUrl": "",
+            "imgWidth": 0,
+            "imgHeight": 0
+          },
+          {
+            "text": "近湖景",
+            "textColor": "#6E6E6E",
+            "backgroundColor": "",
+            "borderColor": "#6E6E6E",
+            "imgUrl": "",
+            "imgWidth": 0,
+            "imgHeight": 0
+          },
+          {
+            "text": "近景点",
+            "textColor": "#6E6E6E",
+            "backgroundColor": "",
+            "borderColor": "#6E6E6E",
+            "imgWidth": 0,
+            "imgHeight": 0
+          }
+        ],
+        "recommendInfo": {
+          "text": "连续3天更新清洁情况",
+          "textColor": "#8D5C29",
+          "mustLive": false
+        },
+        "ugcInfo": "",
+        "poiType": 0,
+        "recommedReason": "",
+        "forward": {
+          "highHotelStar": true,
+          "albumCount": 92,
+          "poiExtendsInfosDesc": [
+            "2018年装修",
+            "2010年开业"
+          ],
+          "commentCount": 366,
+          "posdec": "",
+          "serviceIcons": [
+            {
+              "attrDesc": "中餐厅",
+              "iconUrl": "https://p0.meituan.net/travelcube/e566ecb97a5e1e0bcd2bab0ad3be784e1752.png",
+              "attrId": 101092
+            },
+            {
+              "attrDesc": "快速入住退房",
+              "iconUrl": "https://p0.meituan.net/travelcube/1cbceb68337af34ea4493a820a6e71fa1821.png",
+              "attrId": 101174
+            },
+            {
+              "attrDesc": "免费停车场",
+              "iconUrl": "https://p0.meituan.net/travelcube/b727c2c9174229155c65ba5007ec43161957.png",
+              "attrId": 101006
+            },
+            {
+              "attrDesc": "行李寄存免费",
+              "iconUrl": "https://p0.meituan.net/travelcube/8d2498d51447dcffeee8f6ad23ed20b01102.png",
+              "attrId": 101045
+            },
+            {
+              "attrDesc": "棋牌室",
+              "iconUrl": "https://p0.meituan.net/travelcube/f00cf418109d5e0fb23573c6800f485e1665.png",
+              "attrId": 101019
+            },
+            {
+              "attrDesc": "VIP通道入住",
+              "iconUrl": "https://p0.meituan.net/travelcube/6caa5c2f25a9146435ba3894fa8817351647.png",
+              "attrId": 101315
+            },
+            {
+              "attrDesc": "茶室",
+              "iconUrl": "https://p0.meituan.net/travelcube/513c442a46210ba91b765b588fe62d042004.png",
+              "attrId": 101095
+            },
+            {
+              "attrDesc": "多功能厅",
+              "iconUrl": "https://p0.meituan.net/travelcube/63f3b056ecd500e8e14e47d84818828c1691.png",
+              "attrId": 101325
+            },
+            {
+              "attrDesc": "会议厅",
+              "iconUrl": "https://p1.meituan.net/travelcube/c631e90765fe0fa4591f14b4e061c3b01176.png",
+              "attrId": 101031
+            },
+            {
+              "attrDesc": "24小时前台",
+              "iconUrl": "https://p1.meituan.net/travelcube/e6ffc7739829356f3b6711a254c958d5901.png",
+              "attrId": 101041
+            }
+          ],
+          "serviceTagList": [
+            "森林吸氧",
+            "近湖景"
+          ],
+          "scoreInfo": "4.5分 好",
+          "carEntranceIcon": "https://p1.meituan.net/travelcube/f3fd87298a0f21f9d5d5890c3869280a1531.png",
+          "mapEntranceIcon": "https://p0.meituan.net/travelcube/4c8b25c9551702225a2af318e89876ee2059.png",
+          "carEntranceURL": "imeituan://www.meituan.com/cab/home?qcs_channel=104002&poiName=%E4%BF%9D%E5%88%A9%E5%9B%BD%E9%99%85%E6%B8%A9%E6%B3%89%E9%85%92%E5%BA%97&poiLat=26.609421&poiLng=106.759557",
+          "positionDescList": [
+            {
+              "iconUrl": "https://p1.meituan.net/travelcube/0e8bf65b542a5a4d21f7f78f69c6125d1095.png@36w_36h_80q",
+              "text": "距南垭路地铁站-A口直线5.3公里,驾车8.8公里,约19分钟"
+            }
+          ],
+          "addrWithoutAdministrativeArea": "顺海中路88号保利温泉新城内"
+        },
+        "dpSuperHotel": false,
+        "merchantMember": false,
+        "videoUrl": "http://s3plus.meituan.net/v1/mss_66f77a3644464b589f2f061a13c82013/hoteltranscoding/hotel-853ef235-3fc7-4c95-a6a0-2d25aab32a3f-20278153",
+        "tagRelatedGoodsList": [],
+        "collectionFlag": false,
+        "panoramaAvailable": false,
+        "block": false,
+        "activeAvailable": true,
+        "cellType": "酒店",
+        "hide": false,
+        "spuId": 0
+      },
+      {
+        "historySaleCount": "1000+消费",
+        "frontImg": "http://p0.meituan.net/w.h/tdchotel/97c444e55bebcea9c6009a76ea8a882d8247819.jpg",
+        "isCooperated": 1,
+        "styles": {
+          "poiLastOrderTime": 2,
+          "scoreIntro": 1,
+          "poiSaleAndSpanTag": 2,
+          "poiRecommendTag": 2
+        },
+        "poiAttrTagList": [
+          "森林吸氧",
+          "近湖景"
+        ],
+        "fodderInfo": [],
+        "showType": "hotel",
+        "addr": "观山湖区金朱路1号（金朱西路与诚信南路交汇处西300米）",
+        "cityName": "贵阳",
+        "cityId": 107,
+        "poiid": 5485138,
+        "realPoiId": 5485138,
+        "cooperationInfo": "",
+        "areaId": 29300,
+        "areaName": "白云长山步行街/白云公园",
+        "cates": "20,20426,20606,80,20625,20706,20963,20707,20851",
+        "hasGroup": false,
+        "zlSourceType": 1,
+        "sourceType": 1,
+        "hourRoomSpan": 0,
+        "name": "贵阳新世界酒店",
+        "hasPackage": true,
+        "lat": 26.654117,
+        "lng": 106.614428,
+        "markNumbers": 76,
+        "dist": 1360332.75,
+        "flagshipFlag": true,
+        "lowestPrice": 846,
+        "notRoundedLowestPrice": 84600,
+        "dayRoomSpan": 1,
+        "hotelStar": "豪华型",
+        "hotelAppointmentExtType": 2,
+        "withoutAds": true,
+        "historyCouponCount": 2612,
+        "posdescr": "白云长山步行街/白云公园",
+        "useTime": "",
+        "brandId": 29939,
+        "avgScore": 4.5,
+        "shopId": 22488784,
+        "roomType": "",
+        "serviceDesc": [],
+        "poiSaleAndSpanTag": "1000+消费",
+        "poiRecommendTag": "豪华型",
+        "poiLastOrderTime": "",
+        "scoreIntro": "4.5分 好",
+        "originalPriceDesc": "",
+        "originalPrice": 846.0,
+        "notRoundedOriginalPrice": 84600,
+        "showOriginalPrice": false,
+        "priceType": 1,
+        "taxFee": 0.0,
+        "commentsCountDesc": "219条评论",
+        "poiTagList": [
+          {
+            "text": "森林吸氧",
+            "textColor": "#6E6E6E",
+            "backgroundColor": "",
+            "borderColor": "#6E6E6E",
+            "imgUrl": "",
+            "imgWidth": 0,
+            "imgHeight": 0
+          },
+          {
+            "text": "近湖景",
+            "textColor": "#6E6E6E",
+            "backgroundColor": "",
+            "borderColor": "#6E6E6E",
+            "imgUrl": "",
+            "imgWidth": 0,
+            "imgHeight": 0
+          },
+          {
+            "text": "健身房",
+            "textColor": "#6E6E6E",
+            "backgroundColor": "",
+            "borderColor": "#6E6E6E",
+            "imgUrl": "",
+            "imgWidth": 0,
+            "imgHeight": 0
+          }
+        ],
+        "recommendInfo": {
+          "mustLive": false
+        },
+        "ugcInfo": "",
+        "poiType": 0,
+        "recommedReason": "",
+        "forward": {
+          "highHotelStar": true,
+          "albumCount": 71,
+          "poiExtendsInfosDesc": [
+            "2014年装修",
+            "2014年开业"
+          ],
+          "commentCount": 219,
+          "posdec": "",
+          "serviceIcons": [
+            {
+              "attrDesc": "中餐厅",
+              "iconUrl": "https://p0.meituan.net/travelcube/e566ecb97a5e1e0bcd2bab0ad3be784e1752.png",
+              "attrId": 101092
+            },
+            {
+              "attrDesc": "室内泳池",
+              "iconUrl": "https://p0.meituan.net/travelcube/4115b4f5a251900fdb8d6bccb42a37c21949.png",
+              "attrId": 101097
+            },
+            {
+              "attrDesc": "快速入住退房",
+              "iconUrl": "https://p0.meituan.net/travelcube/1cbceb68337af34ea4493a820a6e71fa1821.png",
+              "attrId": 101174
+            },
+            {
+              "attrDesc": "健身室",
+              "iconUrl": "https://p1.meituan.net/travelcube/c26e135010b57965565b702ebbbf6b28659.png",
+              "attrId": 101028
+            },
+            {
+              "attrDesc": "免费停车场",
+              "iconUrl": "https://p0.meituan.net/travelcube/b727c2c9174229155c65ba5007ec43161957.png",
+              "attrId": 101006
+            },
+            {
+              "attrDesc": "SPA",
+              "iconUrl": "https://p0.meituan.net/travelcube/7a2ca4af70f3008ee6a1e239aa52a8182121.png",
+              "attrId": 101023
+            },
+            {
+              "attrDesc": "接机服务收费",
+              "iconUrl": "https://p0.meituan.net/travelcube/0e21e407e855e4ce9178ed3fdf41ed991688.png",
+              "attrId": 101183
+            },
+            {
+              "attrDesc": "酒吧",
+              "iconUrl": "https://p0.meituan.net/travelcube/ca27f179b75914f46592449a2ca080921917.png",
+              "attrId": 101011
+            },
+            {
+              "attrDesc": "客房WiFi免费",
+              "iconUrl": "https://p1.meituan.net/travelcube/0195598410d503f125c8777df84b4d6c2053.png",
+              "attrId": 101444
+            },
+            {
+              "attrDesc": "行李寄存免费",
+              "iconUrl": "https://p0.meituan.net/travelcube/8d2498d51447dcffeee8f6ad23ed20b01102.png",
+              "attrId": 101045
+            }
+          ],
+          "serviceTagList": [
+            "近湖景",
+            "健身房"
+          ],
+          "scoreInfo": "4.5分 好",
+          "positionDescList": [],
+          "addrWithoutAdministrativeArea": "金朱路1号"
+        },
+        "dpSuperHotel": false,
+        "merchantMember": false,
+        "videoUrl": "http://s3plus.meituan.net/v1/mss_66f77a3644464b589f2f061a13c82013/hoteltranscoding/hotel-9a92b333-ba98-4ee5-97c6-b2ca9ffa57b7-22301849",
+        "tagRelatedGoodsList": [],
+        "collectionFlag": false,
+        "panoramaAvailable": false,
+        "block": false,
+        "activeAvailable": true,
+        "cellType": "酒店",
+        "hide": false,
+        "spuId": 0
+      },
+      {
+        "historySaleCount": "1000+消费",
+        "frontImg": "http://p1.meituan.net/w.h/dnaimgdark/69ccc02dc352b18e01cf305e55165a0a1443203.jpg",
+        "isCooperated": 1,
+        "styles": {
+          "poiLastOrderTime": 2,
+          "scoreIntro": 1,
+          "poiSaleAndSpanTag": 2,
+          "poiRecommendTag": 2
+        },
+        "poiAttrTagList": [
+          "停车场"
+        ],
+        "fodderInfo": [],
+        "showType": "hotel",
+        "addr": "云岩区枣山路95号 （近元隆广场、星力百货）",
+        "cityName": "贵阳",
+        "cityId": 107,
+        "poiid": 2267519,
+        "realPoiId": 2267519,
+        "cooperationInfo": "",
+        "areaId": 30662,
+        "areaName": "黔灵山公园",
+        "cates": "20,20426,20606,80,20625,20706,20610,20963,20707",
+        "hasGroup": false,
+        "zlSourceType": 1,
+        "sourceType": 1,
+        "hourRoomSpan": 0,
+        "name": "贵州天怡豪生大酒店",
+        "hasPackage": true,
+        "lat": 26.586346,
+        "lng": 106.696759,
+        "markNumbers": 24,
+        "dist": 1364163.625,
+        "flagshipFlag": true,
+        "lowestPrice": 570,
+        "notRoundedLowestPrice": 56923,
+        "dayRoomSpan": 1,
+        "hotelStar": "五星级",
+        "hotelAppointmentExtType": 2,
+        "withoutAds": true,
+        "historyCouponCount": 1317,
+        "posdescr": "黔灵山公园 | 贵阳客车站附近",
+        "useTime": "",
+        "brandId": 1567020,
+        "avgScore": 4.3,
+        "shopId": 3308212,
+        "roomType": "",
+        "serviceDesc": [],
+        "poiSaleAndSpanTag": "1000+消费",
+        "poiRecommendTag": "五星级",
+        "poiLastOrderTime": "",
+        "scoreIntro": "4.3分 好",
+        "originalPriceDesc": "",
+        "originalPrice": 570.0,
+        "notRoundedOriginalPrice": 56923,
+        "showOriginalPrice": false,
+        "priceType": -1,
+        "taxFee": 0.0,
+        "commentsCountDesc": "194条评论",
+        "poiTagList": [],
+        "imageConfig": {
+          "headerImage": "https://p0.meituan.net/travelcube/aa3f6b08b6e0e4da4d282e6915a6ff615604.png",
+          "headerImageType": "HIGH_STAR"
+        },
+        "recommendInfo": {
+          "text": "GCH酒店集团旗下品牌",
+          "imageUrl": "https://p0.meituan.net/travelcube/aa3f6b08b6e0e4da4d282e6915a6ff615604.png",
+          "textColor": "#8D5C29",
+          "mustLive": false,
+          "brandImageUrl": "https://p0.meituan.net/travelcube/aa3f6b08b6e0e4da4d282e6915a6ff615604.png"
+        },
+        "ugcInfo": "",
+        "poiType": 0,
+        "recommedReason": "",
+        "forward": {
+          "highHotelStar": true,
+          "albumCount": 68,
+          "poiExtendsInfosDesc": [
+            "2012年装修",
+            "2003年开业"
+          ],
+          "commentCount": 194,
+          "posdec": "",
+          "serviceIcons": [
+            {
+              "attrDesc": "24小时前台",
+              "iconUrl": "https://p1.meituan.net/travelcube/e6ffc7739829356f3b6711a254c958d5901.png",
+              "attrId": 101041
+            },
+            {
+              "attrDesc": "免费停车场",
+              "iconUrl": "https://p0.meituan.net/travelcube/b727c2c9174229155c65ba5007ec43161957.png",
+              "attrId": 101006
+            },
+            {
+              "attrDesc": "客房WiFi免费",
+              "iconUrl": "https://p1.meituan.net/travelcube/0195598410d503f125c8777df84b4d6c2053.png",
+              "attrId": 101444
+            },
+            {
+              "attrDesc": "行李寄存免费",
+              "iconUrl": "https://p0.meituan.net/travelcube/8d2498d51447dcffeee8f6ad23ed20b01102.png",
+              "attrId": 101045
+            },
+            {
+              "attrDesc": "咖啡厅",
+              "iconUrl": "https://p1.meituan.net/travelcube/085cc051a1a0b01a5cad1c24204400f61487.png",
+              "attrId": 101096
+            },
+            {
+              "attrDesc": "VIP通道入住",
+              "iconUrl": "https://p0.meituan.net/travelcube/6caa5c2f25a9146435ba3894fa8817351647.png",
+              "attrId": 101315
+            },
+            {
+              "attrDesc": "24小时大堂经理",
+              "iconUrl": "https://p0.meituan.net/travelcube/cb8b82378a2eeffb8946463bb86089f22399.png",
+              "attrId": 101322
+            },
+            {
+              "attrDesc": "多功能厅",
+              "iconUrl": "https://p0.meituan.net/travelcube/63f3b056ecd500e8e14e47d84818828c1691.png",
+              "attrId": 101325
+            },
+            {
+              "attrDesc": "会议厅",
+              "iconUrl": "https://p1.meituan.net/travelcube/c631e90765fe0fa4591f14b4e061c3b01176.png",
+              "attrId": 101031
+            },
+            {
+              "attrDesc": "租车服务",
+              "iconUrl": "https://p0.meituan.net/travelcube/e2366e28a51cae7ad2b639acc85f4f631768.png",
+              "attrId": 101101
+            }
+          ],
+          "serviceTagList": [
+            "停车场"
+          ],
+          "scoreInfo": "4.3分 好",
+          "positionDescList": [
+            {
+              "iconUrl": "https://p1.meituan.net/travelcube/0e8bf65b542a5a4d21f7f78f69c6125d1095.png@36w_36h_80q",
+              "text": "距北京路地铁站-B口直线1.1公里,驾车2.3公里,约4分钟"
+            }
+          ],
+          "addrWithoutAdministrativeArea": "枣山路95号 "
+        },
+        "dpSuperHotel": false,
+        "merchantMember": false,
+        "videoUrl": "http://s3plus.meituan.net/v1/mss_66f77a3644464b589f2f061a13c82013/hoteltranscoding/hotel-e16a319d-279b-4611-b070-6ce16fcf7823-12473417",
+        "tagRelatedGoodsList": [],
+        "collectionFlag": false,
+        "panoramaAvailable": false,
+        "block": false,
+        "activeAvailable": true,
+        "cellType": "酒店",
+        "hide": false,
+        "spuId": 0
+      },
+      {
+        "historySaleCount": "5000+消费",
+        "frontImg": "http://p1.meituan.net/w.h/tdchotel/5f75af1f8ab5852c6411964649008f98107818.jpg",
+        "isCooperated": 1,
+        "styles": {
+          "poiLastOrderTime": 2,
+          "scoreIntro": 1,
+          "poiSaleAndSpanTag": 2,
+          "poiRecommendTag": 2
+        },
+        "poiAttrTagList": [
+          "预约发票",
+          "公益商家"
+        ],
+        "fodderInfo": [
+          {
+            "boothId": 1000,
+            "description": "query红包商家精选施平平",
+            "url": "http://p0.meituan.net/hotelnoah/0cd53a41e0f3481db02631b7401f3a6d.png"
+          },
+          {
+            "boothId": 9003029,
+            "description": "top2020国庆早订提前订95折",
+            "url": "http://p1.meituan.net/hotelnoah/97dfe45d516a4100a3c3a17d7e468eb7.png"
+          }
+        ],
+        "showType": "hotel",
+        "addr": "花溪区小河珠江路168号（近地铁1号线珠江路站、望城坡站）",
+        "cityName": "贵阳",
+        "cityId": 107,
+        "poiid": 2462435,
+        "realPoiId": 2462435,
+        "cooperationInfo": "",
+        "areaId": 30661,
+        "areaName": "贵阳火车站地区",
+        "cates": "20,20426,20606,80,20625,20706,20963,20707,20851",
+        "hasGroup": false,
+        "zlSourceType": 1,
+        "sourceType": 1,
+        "hourRoomSpan": 0,
+        "name": "贵阳格兰云天国际酒店",
+        "hasPackage": true,
+        "lat": 26.530612,
+        "lng": 106.71036,
+        "markNumbers": 2545,
+        "dist": 1369393.25,
+        "flagshipFlag": true,
+        "lowestPrice": 597,
+        "notRoundedLowestPrice": 59700,
+        "dayRoomSpan": 1,
+        "hotelStar": "豪华型",
+        "hotelAppointmentExtType": 2,
+        "withoutAds": true,
+        "historyCouponCount": 35597,
+        "posdescr": "贵阳火车站地区 | 长江路-公交车站附近",
+        "useTime": "",
+        "brandId": 2881369,
+        "avgScore": 4.3,
+        "shopId": 10651197,
+        "roomType": "",
+        "serviceDesc": [],
+        "poiSaleAndSpanTag": "5000+消费",
+        "poiRecommendTag": "豪华型",
+        "poiLastOrderTime": "",
+        "scoreIntro": "4.3分 好",
+        "originalPriceDesc": "",
+        "originalPrice": 597.0,
+        "notRoundedOriginalPrice": 59700,
+        "showOriginalPrice": false,
+        "priceType": 1,
+        "taxFee": 0.0,
+        "commentsCountDesc": "2691条评论",
+        "poiTagList": [
+          {
+            "text": "预约发票",
+            "textColor": "#008489",
+            "backgroundColor": "",
+            "borderColor": "#008489",
+            "imgWidth": 0,
+            "imgHeight": 0
+          },
+          {
+            "text": "公益商家",
+            "textColor": "#008489",
+            "backgroundColor": "",
+            "borderColor": "#008489",
+            "imgUrl": "",
+            "imgWidth": 0,
+            "imgHeight": 0
+          },
+          {
+            "text": "健身房",
+            "textColor": "#6E6E6E",
+            "backgroundColor": "",
+            "borderColor": "#6E6E6E",
+            "imgUrl": "",
+            "imgWidth": 0,
+            "imgHeight": 0
+          },
+          {
+            "text": "游泳池",
+            "textColor": "#6E6E6E",
+            "backgroundColor": "",
+            "borderColor": "#6E6E6E",
+            "imgUrl": "",
+            "imgWidth": 0,
+            "imgHeight": 0
+          },
+          {
+            "text": "停车场",
+            "textColor": "#6E6E6E",
+            "backgroundColor": "",
+            "borderColor": "#6E6E6E",
+            "imgUrl": "",
+            "imgWidth": 0,
+            "imgHeight": 0
+          }
+        ],
+        "recommendInfo": {
+          "mustLive": false
+        },
+        "ugcInfo": "",
+        "poiType": 0,
+        "recommedReason": "",
+        "forward": {
+          "highHotelStar": true,
+          "albumCount": 122,
+          "poiExtendsInfosDesc": [
+            "2013年装修",
+            "2013年开业"
+          ],
+          "commentCount": 2691,
+          "posdec": "",
+          "serviceIcons": [
+            {
+              "attrDesc": "快速入住退房",
+              "iconUrl": "https://p0.meituan.net/travelcube/1cbceb68337af34ea4493a820a6e71fa1821.png",
+              "attrId": 101174
+            },
+            {
+              "attrDesc": "健身室",
+              "iconUrl": "https://p1.meituan.net/travelcube/c26e135010b57965565b702ebbbf6b28659.png",
+              "attrId": 101028
+            },
+            {
+              "attrDesc": "室内泳池",
+              "iconUrl": "https://p0.meituan.net/travelcube/4115b4f5a251900fdb8d6bccb42a37c21949.png",
+              "attrId": 101097
+            },
+            {
+              "attrDesc": "免费停车场",
+              "iconUrl": "https://p0.meituan.net/travelcube/b727c2c9174229155c65ba5007ec43161957.png",
+              "attrId": 101006
+            },
+            {
+              "attrDesc": "桑拿浴室",
+              "iconUrl": "https://p1.meituan.net/travelcube/8252517f043c9cfd7f63da8cdc241c831660.png",
+              "attrId": 101022
+            },
+            {
+              "attrDesc": "行李寄存免费",
+              "iconUrl": "https://p0.meituan.net/travelcube/8d2498d51447dcffeee8f6ad23ed20b01102.png",
+              "attrId": 101045
+            },
+            {
+              "attrDesc": "咖啡厅",
+              "iconUrl": "https://p1.meituan.net/travelcube/085cc051a1a0b01a5cad1c24204400f61487.png",
+              "attrId": 101096
+            },
+            {
+              "attrDesc": "棋牌室",
+              "iconUrl": "https://p0.meituan.net/travelcube/f00cf418109d5e0fb23573c6800f485e1665.png",
+              "attrId": 101019
+            },
+            {
+              "attrDesc": "VIP通道入住",
+              "iconUrl": "https://p0.meituan.net/travelcube/6caa5c2f25a9146435ba3894fa8817351647.png",
+              "attrId": 101315
+            },
+            {
+              "attrDesc": "茶室",
+              "iconUrl": "https://p0.meituan.net/travelcube/513c442a46210ba91b765b588fe62d042004.png",
+              "attrId": 101095
+            }
+          ],
+          "serviceTagList": [
+            "健身房",
+            "游泳池"
+          ],
+          "scoreInfo": "4.3分 好",
+          "carEntranceIcon": "https://p1.meituan.net/travelcube/f3fd87298a0f21f9d5d5890c3869280a1531.png",
+          "mapEntranceIcon": "https://p0.meituan.net/travelcube/4c8b25c9551702225a2af318e89876ee2059.png",
+          "carEntranceURL": "imeituan://www.meituan.com/cab/home?qcs_channel=104002&poiName=%E8%B4%B5%E9%98%B3%E6%A0%BC%E5%85%B0%E4%BA%91%E5%A4%A9%E5%9B%BD%E9%99%85%E9%85%92%E5%BA%97&poiLat=26.530612&poiLng=106.71036",
+          "positionDescList": [
+            {
+              "iconUrl": "https://p0.meituan.net/travelcube/e1bc5f4df0de55307133fdb47b6c5c2d1678.png@36w_36h_80q",
+              "text": "距您直线10.4公里,驾车14.6公里,约28分钟"
+            },
+            {
+              "iconUrl": "https://p1.meituan.net/travelcube/0e8bf65b542a5a4d21f7f78f69c6125d1095.png@36w_36h_80q",
+              "text": "距珠江路地铁站-D口直线400米,步行600米,约8分钟"
+            }
+          ],
+          "addrWithoutAdministrativeArea": "小河珠江路168号"
+        },
+        "dpSuperHotel": false,
+        "merchantMember": false,
+        "videoUrl": "http://s3plus.meituan.net/v1/mss_66f77a3644464b589f2f061a13c82013/hoteltranscoding/hotel-eaeabf00-1fd9-4656-9467-ba5db0dc437b-2132336",
+        "tagRelatedGoodsList": [],
+        "collectionFlag": false,
+        "panoramaAvailable": false,
+        "block": false,
+        "activeAvailable": true,
+        "cellType": "酒店",
+        "hide": false,
+        "spuId": 0
+      },
+      {
+        "historySaleCount": "5000+消费",
+        "frontImg": "http://p0.meituan.net/w.h/tdchotel/df83f95893799fd47bdca6a21c4cb7bc1733199.jpg",
+        "isCooperated": 1,
+        "styles": {
+          "poiLastOrderTime": 2,
+          "scoreIntro": 1,
+          "poiSaleAndSpanTag": 2,
+          "poiRecommendTag": 2
+        },
+        "poiAttrTagList": [
+          "健身房",
+          "停车场"
+        ],
+        "fodderInfo": [],
+        "showType": "hotel",
+        "addr": "清镇市云岭东路1号（近东门桥收费站、前进路）",
+        "cityName": "贵阳",
+        "cityId": 107,
+        "poiid": 87912280,
+        "realPoiId": 87912280,
+        "cooperationInfo": "",
+        "areaId": 1013086,
+        "areaName": "清镇职教城",
+        "cates": "20,20426,20606,80,20625,20706,20963,20707,20851",
+        "hasGroup": false,
+        "zlSourceType": 1,
+        "sourceType": 1,
+        "hourRoomSpan": 0,
+        "name": "贵州雅天大酒店",
+        "hasPackage": true,
+        "lat": 26.55626,
+        "lng": 106.484906,
+        "markNumbers": 161,
+        "dist": 1375377.0,
+        "flagshipFlag": false,
+        "lowestPrice": 428,
+        "notRoundedLowestPrice": 42800,
+        "dayRoomSpan": 1,
+        "hotelStar": "豪华型",
+        "hotelAppointmentExtType": 2,
+        "withoutAds": true,
+        "historyCouponCount": 6176,
+        "posdescr": "清镇职教城 | 清镇市社会客车站附近",
+        "useTime": "",
+        "brandId": 0,
+        "avgScore": 4.2,
+        "shopId": 28633003,
+        "roomType": "",
+        "serviceDesc": [],
+        "poiSaleAndSpanTag": "5000+消费",
+        "poiRecommendTag": "豪华型",
+        "poiLastOrderTime": "",
+        "scoreIntro": "4.2分 好",
+        "originalPriceDesc": "",
+        "originalPrice": 428.0,
+        "notRoundedOriginalPrice": 42800,
+        "showOriginalPrice": false,
+        "priceType": -1,
+        "taxFee": 0.0,
+        "commentsCountDesc": "198条评论",
+        "poiTagList": [],
+        "recommendInfo": {
+          "mustLive": false
+        },
+        "ugcInfo": "",
+        "poiType": 0,
+        "recommedReason": "",
+        "forward": {
+          "highHotelStar": true,
+          "albumCount": 53,
+          "poiExtendsInfosDesc": [
+            "2018年装修",
+            "2016年开业"
+          ],
+          "commentCount": 198,
+          "posdec": "",
+          "serviceIcons": [
+            {
+              "attrDesc": "中餐厅",
+              "iconUrl": "https://p0.meituan.net/travelcube/e566ecb97a5e1e0bcd2bab0ad3be784e1752.png",
+              "attrId": 101092
+            },
+            {
+              "attrDesc": "快速入住退房",
+              "iconUrl": "https://p0.meituan.net/travelcube/1cbceb68337af34ea4493a820a6e71fa1821.png",
+              "attrId": 101174
+            },
+            {
+              "attrDesc": "水上运动",
+              "iconUrl": "https://p0.meituan.net/travelcube/b10b9c43f723acbc11d522a6b23695c72349.png",
+              "attrId": 101356
+            },
+            {
+              "attrDesc": "健身室",
+              "iconUrl": "https://p1.meituan.net/travelcube/c26e135010b57965565b702ebbbf6b28659.png",
+              "attrId": 101028
+            },
+            {
+              "attrDesc": "免费停车场",
+              "iconUrl": "https://p0.meituan.net/travelcube/b727c2c9174229155c65ba5007ec43161957.png",
+              "attrId": 101006
+            },
+            {
+              "attrDesc": "SPA",
+              "iconUrl": "https://p0.meituan.net/travelcube/7a2ca4af70f3008ee6a1e239aa52a8182121.png",
+              "attrId": 101023
+            },
+            {
+              "attrDesc": "接机服务收费",
+              "iconUrl": "https://p0.meituan.net/travelcube/0e21e407e855e4ce9178ed3fdf41ed991688.png",
+              "attrId": 101183
+            },
+            {
+              "attrDesc": "KTV",
+              "iconUrl": "https://p0.meituan.net/travelcube/3cbf633c01e193caf90c6e4aad9928172120.png",
+              "attrId": 101313
+            },
+            {
+              "attrDesc": "客房WiFi免费",
+              "iconUrl": "https://p1.meituan.net/travelcube/0195598410d503f125c8777df84b4d6c2053.png",
+              "attrId": 101444
+            },
+            {
+              "attrDesc": "行李寄存免费",
+              "iconUrl": "https://p0.meituan.net/travelcube/8d2498d51447dcffeee8f6ad23ed20b01102.png",
+              "attrId": 101045
+            }
+          ],
+          "serviceTagList": [
+            "健身房",
+            "停车场"
+          ],
+          "scoreInfo": "4.2分 好",
+          "positionDescList": [
+            {
+              "iconUrl": "https://p0.meituan.net/travelcube/e1bc5f4df0de55307133fdb47b6c5c2d1678.png@36w_36h_80q",
+              "text": "距市中心直线23.8公里,驾车31.8公里,约48分钟"
+            }
+          ],
+          "addrWithoutAdministrativeArea": "云岭东路1号"
+        },
+        "dpSuperHotel": false,
+        "merchantMember": false,
+        "videoUrl": "http://s3plus.meituan.net/v1/mss_66f77a3644464b589f2f061a13c82013/hoteltranscoding/hotel-a8c413f6-855c-4638-8b71-98dd7d8032c6-7890947",
+        "tagRelatedGoodsList": [],
+        "collectionFlag": false,
+        "panoramaAvailable": false,
+        "block": false,
+        "activeAvailable": true,
+        "cellType": "酒店",
+        "hide": false,
+        "spuId": 0
+      },
+      {
+        "historySaleCount": "1000+消费",
+        "frontImg": "http://p1.meituan.net/w.h/tdchotel/3e0cc68857d44e7371b3383a9cd35241382402.jpg",
+        "isCooperated": 1,
+        "styles": {
+          "poiLastOrderTime": 2,
+          "scoreIntro": 1,
+          "poiSaleAndSpanTag": 2,
+          "poiRecommendTag": 2
+        },
+        "poiAttrTagList": [
+          "亲子酒店",
+          "近火车站"
+        ],
+        "fodderInfo": [],
+        "showType": "hotel",
+        "addr": "南明区瑞金南路81号工会大院（近都司路）",
+        "cityName": "贵阳",
+        "cityId": 107,
+        "poiid": 89723406,
+        "realPoiId": 89723406,
+        "cooperationInfo": "",
+        "areaId": 30659,
+        "areaName": "河滨公园/甲秀楼",
+        "cates": "20,20426,20606,80,20625,20706,20963,20707,20851",
+        "hasGroup": false,
+        "zlSourceType": 1,
+        "sourceType": 1,
+        "hourRoomSpan": 0,
+        "name": "黔工圣丰酒店",
+        "hasPackage": true,
+        "lat": 26.572146,
+        "lng": 106.703234,
+        "markNumbers": 31,
+        "dist": 1365381.625,
+        "flagshipFlag": false,
+        "lowestPrice": 571,
+        "notRoundedLowestPrice": 0,
+        "dayRoomSpan": 1,
+        "hotelStar": "豪华型",
+        "hotelAppointmentExtType": 2,
+        "withoutAds": true,
+        "historyCouponCount": 1484,
+        "posdescr": "河滨公园/甲秀楼 | 中山西路附近",
+        "useTime": "",
+        "brandId": 0,
+        "avgScore": 4.7,
+        "shopId": 57327151,
+        "roomType": "",
+        "serviceDesc": [],
+        "poiSaleAndSpanTag": "1000+消费",
+        "poiRecommendTag": "豪华型",
+        "poiLastOrderTime": "",
+        "scoreIntro": "4.7分 很好",
+        "originalPriceDesc": "",
+        "originalPrice": 0.0,
+        "notRoundedOriginalPrice": 0,
+        "showOriginalPrice": false,
+        "priceType": 0,
+        "taxFee": 0.0,
+        "commentsCountDesc": "92条评论",
+        "poiTagList": [
+          {
+            "text": "亲子酒店",
+            "textColor": "#6E6E6E",
+            "backgroundColor": "",
+            "borderColor": "#6E6E6E",
+            "imgUrl": "",
+            "imgWidth": 0,
+            "imgHeight": 0
+          },
+          {
+            "text": "近火车站",
+            "textColor": "#6E6E6E",
+            "backgroundColor": "",
+            "borderColor": "#6E6E6E",
+            "imgUrl": "",
+            "imgWidth": 0,
+            "imgHeight": 0
+          },
+          {
+            "text": "免费接机",
+            "textColor": "#6E6E6E",
+            "backgroundColor": "",
+            "borderColor": "#6E6E6E",
+            "imgUrl": "",
+            "imgWidth": 0,
+            "imgHeight": 0
+          }
+        ],
+        "recommendInfo": {
+          "mustLive": false
+        },
+        "ugcInfo": "",
+        "poiType": 0,
+        "recommedReason": "",
+        "forward": {
+          "highHotelStar": true,
+          "albumCount": 61,
+          "poiExtendsInfosDesc": [
+            "2019年装修",
+            "2015年开业"
+          ],
+          "commentCount": 92,
+          "posdec": "",
+          "serviceIcons": [
+            {
+              "attrDesc": "快速入住退房",
+              "iconUrl": "https://p0.meituan.net/travelcube/1cbceb68337af34ea4493a820a6e71fa1821.png",
+              "attrId": 101174
+            },
+            {
+              "attrDesc": "健身室",
+              "iconUrl": "https://p1.meituan.net/travelcube/c26e135010b57965565b702ebbbf6b28659.png",
+              "attrId": 101028
+            },
+            {
+              "attrDesc": "室内泳池免费",
+              "iconUrl": "https://p0.meituan.net/travelcube/4115b4f5a251900fdb8d6bccb42a37c21949.png",
+              "attrId": 101097
+            },
+            {
+              "attrDesc": "免费停车场",
+              "iconUrl": "https://p0.meituan.net/travelcube/b727c2c9174229155c65ba5007ec43161957.png",
+              "attrId": 101006
+            },
+            {
+              "attrDesc": "桑拿浴室",
+              "iconUrl": "https://p1.meituan.net/travelcube/8252517f043c9cfd7f63da8cdc241c831660.png",
+              "attrId": 101022
+            },
+            {
+              "attrDesc": "接机服务免费",
+              "iconUrl": "https://p0.meituan.net/travelcube/0e21e407e855e4ce9178ed3fdf41ed991688.png",
+              "attrId": 101183
+            },
+            {
+              "attrDesc": "客房WiFi免费",
+              "iconUrl": "https://p1.meituan.net/travelcube/0195598410d503f125c8777df84b4d6c2053.png",
+              "attrId": 101444
+            },
+            {
+              "attrDesc": "行李寄存免费",
+              "iconUrl": "https://p0.meituan.net/travelcube/8d2498d51447dcffeee8f6ad23ed20b01102.png",
+              "attrId": 101045
+            },
+            {
+              "attrDesc": "咖啡厅",
+              "iconUrl": "https://p1.meituan.net/travelcube/085cc051a1a0b01a5cad1c24204400f61487.png",
+              "attrId": 101096
+            },
+            {
+              "attrDesc": "棋牌室",
+              "iconUrl": "https://p0.meituan.net/travelcube/f00cf418109d5e0fb23573c6800f485e1665.png",
+              "attrId": 101019
+            }
+          ],
+          "serviceTagList": [
+            "亲子酒店",
+            "近火车站"
+          ],
+          "scoreInfo": "4.7分 很好",
+          "carEntranceIcon": "https://p1.meituan.net/travelcube/f3fd87298a0f21f9d5d5890c3869280a1531.png",
+          "mapEntranceIcon": "https://p0.meituan.net/travelcube/4c8b25c9551702225a2af318e89876ee2059.png",
+          "carEntranceURL": "imeituan://www.meituan.com/cab/home?qcs_channel=104002&poiName=%E9%BB%94%E5%B7%A5%E5%9C%A3%E4%B8%B0%E9%85%92%E5%BA%97&poiLat=26.572146&poiLng=106.703234",
+          "positionDescList": [
+            {
+              "iconUrl": "https://p0.meituan.net/travelcube/e1bc5f4df0de55307133fdb47b6c5c2d1678.png@36w_36h_80q",
+              "text": "距贵州理工学院蔡关路直线4.7公里,驾车6.8公里,约18分钟"
+            },
+            {
+              "iconUrl": "https://p1.meituan.net/travelcube/0e8bf65b542a5a4d21f7f78f69c6125d1095.png@36w_36h_80q",
+              "text": "距河滨公园地铁站-B口直线500米,步行800米,约10分钟"
+            }
+          ],
+          "addrWithoutAdministrativeArea": "瑞金南路81号工会大院"
+        },
+        "dpSuperHotel": false,
+        "merchantMember": false,
+        "videoUrl": "http://s3plus.meituan.net/v1/mss_66f77a3644464b589f2f061a13c82013/hoteltranscoding/hotel-2c8d94c8-f930-4726-bfd1-9b84d9ddd80b-3600200",
+        "tagRelatedGoodsList": [],
+        "collectionFlag": false,
+        "panoramaAvailable": false,
+        "block": false,
+        "activeAvailable": true,
+        "cellType": "酒店",
+        "hide": false,
+        "spuId": 0
+      }
+    ],
+    "earth_map_txt": "符合条件酒店较少，缩小地图可在更大范围内查找~",
+    "feedPos": 9,
+    "travelRecommendPos": 10,
+    "bizArea": {
+      "tipTitle": "贵阳热门住宿区域",
+      "navTitle": "更多商圈",
+      "bizAreaList": [
+        {
+          "newBizArea": false,
+          "bizAreaId": 30664,
+          "bizAreaCode": 0,
+          "bizAreaName": "观山湖地区",
+          "percentText": "35%选择",
+          "sortNum": 2
+        },
+        {
+          "newBizArea": false,
+          "bizAreaId": 30661,
+          "bizAreaCode": 1,
+          "bizAreaName": "贵阳火车站地区",
+          "percentText": "22%选择",
+          "sortNum": 3
+        },
+        {
+          "newBizArea": false,
+          "bizAreaId": 30660,
+          "bizAreaCode": 2,
+          "bizAreaName": "喷水池/星力广场",
+          "percentText": "15%选择",
+          "sortNum": 5
+        },
+        {
+          "newBizArea": false,
+          "bizAreaId": 30658,
+          "bizAreaCode": 3,
+          "bizAreaName": "市西路/大十字广场",
+          "percentText": "12%选择",
+          "sortNum": 6
+        },
+        {
+          "newBizArea": true,
+          "bizAreaId": 212449,
+          "bizAreaCode": 0,
+          "bizAreaName": "花果园",
+          "percentText": "18%选择",
+          "sortNum": 0,
+          "selectKey": "newLandmarkId",
+          "selectValue": 212449,
+          "firstType": "房地产",
+          "subType": "写字楼"
+        },
+        {
+          "newBizArea": true,
+          "bizAreaId": 212450,
+          "bizAreaCode": 1,
+          "bizAreaName": "贵阳北站",
+          "percentText": "18%选择",
+          "sortNum": 0,
+          "showTag": "出行便捷",
+          "selectKey": "newLandmarkId",
+          "selectValue": 212450,
+          "firstType": "交通设施",
+          "subType": "火车站"
+        },
+        {
+          "newBizArea": true,
+          "bizAreaId": 212451,
+          "bizAreaCode": 2,
+          "bizAreaName": "贵阳站",
+          "percentText": "9%选择",
+          "sortNum": 0,
+          "showTag": "出行便捷",
+          "selectKey": "newLandmarkId",
+          "selectValue": 212451,
+          "firstType": "交通设施",
+          "subType": "火车站"
+        },
+        {
+          "newBizArea": true,
+          "bizAreaId": 212452,
+          "bizAreaCode": 3,
+          "bizAreaName": "贵阳龙洞堡机场",
+          "percentText": "8%选择",
+          "sortNum": 0,
+          "showTag": "出行便捷",
+          "selectKey": "newLandmarkId",
+          "selectValue": 212452,
+          "firstType": "交通设施",
+          "subType": "机场"
+        },
+        {
+          "newBizArea": true,
+          "bizAreaId": 212453,
+          "bizAreaCode": 4,
+          "bizAreaName": "花溪公园",
+          "percentText": "5%选择",
+          "sortNum": 0,
+          "showTag": "热门景点",
+          "selectKey": "newLandmarkId",
+          "selectValue": 212453,
+          "firstType": "旅游景点",
+          "subType": "公园游乐场"
+        },
+        {
+          "newBizArea": true,
+          "bizAreaId": 212454,
+          "bizAreaCode": 5,
+          "bizAreaName": "喷水池",
+          "percentText": "4%选择",
+          "sortNum": 0,
+          "selectKey": "newLandmarkId",
+          "selectValue": 212454,
+          "firstType": "地名地址",
+          "subType": "自然地名"
+        }
+      ],
+      "hasMore": true,
+      "cellNum": 5
+    },
+    "serviceGuaranteeImgUrl": "http://p1.meituan.net/codeman/a11d72e707fe9d2e67c850a8a47be4df9229.png",
+    "rankExData": {
+      "prompt": "",
+      "qrPos": "-1",
+      "searchIntentionList": [],
+      "selectedItemIndex": -1,
+      "type": 0,
+      "queryRewrite": {
+        "qctype": 0
+      },
+      "bigScenicSpot": false
+    },
+    "phoenixRecommendPos": 10,
+    "showPhoenixRecommend": false,
+    "voucher": {
+      "title": "",
+      "newTitle": "",
+      "voucherMsg": "专享抵用券",
+      "voucherTitle": "抵用券",
+      "paymentVoucherTitle": "特惠券包",
+      "discountMsgs": [],
+      "packageDiscountMsgs": [],
+      "ownVouchers": [],
+      "availableVouchers": [],
+      "voucherBarList": []
+    },
+    "hotelRankEntryItemList": [
+      {
+        "rankUuid": "14899aad-709b-4900-941f-9db3fe5cd0e3",
+        "rankName": "情侣挚爱主题房酒店榜",
+        "rankType": 1,
+        "rankImage": "https://p0.meituan.net/hoteladmin/0d5659920d46e6284fe88264a7748d5a921608.jpg%40300w_300h_0e_1l%7Cwatermark%3D0",
+        "areaType": 1,
+        "rankTag": "口碑",
+        "priority": 1,
+        "url": "https://i.meituan.com/awp/h5/hotel-activity/hotel-list/index.html?themeId=6515&areaType=1&cityId=107&platform=2",
+        "logo": "http://p1.meituan.net/hoteladmin/6e941113b674bf3d811b3c91310fde655782.png",
+        "cellSubTitle": "纵享情侣主题房别样体验"
+      },
+      {
+        "rankUuid": "c10932e7-efaa-4b91-9ef4-5b034db31a7f",
+        "rankName": "贵阳秋日遛娃酒店榜",
+        "rankType": 1,
+        "rankImage": "https://p1.meituan.net/destinationstore/c94a79d992ab06c1c78c1f624716e89f643096.png%40300w_300h_0e_1l%7Cwatermark%3D0",
+        "areaType": 1,
+        "rankTag": "热门",
+        "priority": 3,
+        "url": "https://i.meituan.com/awp/h5/hotel-activity/hotel-list/index.html?themeId=12663&areaType=1&cityId=107&platform=2",
+        "logo": "http://p1.meituan.net/hoteladmin/6e941113b674bf3d811b3c91310fde655782.png",
+        "cellSubTitle": "解放双手，宝贝撒欢"
+      }
+    ],
+    "bannerTemplateInfoList": [
+      {
+        "cellNum": 0,
+        "bannerTemplateId": "COMMON_TIPS",
+        "bannerTemplateData": {
+          "name": "酒店防疫banner",
+          "pictureUrl": "https://p0.meituan.net/travelcube/04c91c38deb1d8b1526ad3c3b2b3666f29212.png",
+          "linkUrl": ""
+        }
+      }
+    ],
+    "codeOfTravelScene": 6,
+    "isLandMarkIntention": false
+  },
+  "ct_pois_map": [
+    {
+      "poiid": 1566752,
+      "ct_poi": "187081312924862069239660900090595435471_c0_e17402325428497424293_anull_o1_dhotelpoitagb_k1002"
+    },
+    {
+      "poiid": 2267445,
+      "ct_poi": "187081312924862069239660900090595435471_c1_e17402325428497424293_anull_o1_dhotelpoitagb_k1002"
+    },
+    {
+      "poiid": 82845819,
+      "ct_poi": "187081312924862069239660900090595435471_c2_e17402325428497424293_anull_o1_dhotelpoitagb_k1002"
+    },
+    {
+      "poiid": 1474008,
+      "ct_poi": "187081312924862069239660900090595435471_c3_e17402325428497424293_anull_o1_dhotelpoitagb_k1002"
+    },
+    {
+      "poiid": 195880155,
+      "ct_poi": "187081312924862069239660900090595435471_c4_e17402325428497424293_anull_o1_dhotelpoitagb_k1002"
+    },
+    {
+      "poiid": 150555816,
+      "ct_poi": "187081312924862069239660900090595435471_c5_e17402325428497424293_anull_o1_dhotelpoitagb_k1002"
+    },
+    {
+      "poiid": 1533897,
+      "ct_poi": "187081312924862069239660900090595435471_c6_e17402325428497424293_anull_o1_dhotelpoitagb_k1002"
+    },
+    {
+      "poiid": 2370619,
+      "ct_poi": "187081312924862069239660900090595435471_c7_e17402325428497424293_anull_o1_dhotelpoitagb_k1002"
+    },
+    {
+      "poiid": 183214101,
+      "ct_poi": "187081312924862069239660900090595435471_c8_e17402325428497424293_anull_o1_dhotelpoitagb_k1002"
+    },
+    {
+      "poiid": 1445690,
+      "ct_poi": "187081312924862069239660900090595435471_c9_e17402325428497424293_anull_o1_dhotelpoitagb_k1002"
+    },
+    {
+      "poiid": 42905377,
+      "ct_poi": "187081312924862069239660900090595435471_c10_e17402325428497424293_anull_o1_dhotelpoitagb_k1002"
+    },
+    {
+      "poiid": 5485138,
+      "ct_poi": "187081312924862069239660900090595435471_c11_e17402325428497424293_anull_o1_dhotelpoitagb_k1002"
+    },
+    {
+      "poiid": 2267519,
+      "ct_poi": "187081312924862069239660900090595435471_c12_e17402325428497424293_anull_o1_dhotelpoitagb_k1002"
+    },
+    {
+      "poiid": 2462435,
+      "ct_poi": "187081312924862069239660900090595435471_c13_e17402325428497424293_anull_o1_dhotelpoitagb_k1002"
+    },
+    {
+      "poiid": 87912280,
+      "ct_poi": "187081312924862069239660900090595435471_c14_e17402325428497424293_anull_o1_dhotelpoitagb_k1002"
+    },
+    {
+      "poiid": 89723406,
+      "ct_poi": "187081312924862069239660900090595435471_c15_e17402325428497424293_anull_o1_dhotelpoitagb_k1002"
+    }
+  ],
+  "ct_pois": [
+    {
+      "poiid": 1566752,
+      "ct_poi": "187081312924862069239660900090595435471_c0_e17402325428497424293_anull_o1_dhotelpoitagb_k1002"
+    },
+    {
+      "poiid": 2267445,
+      "ct_poi": "187081312924862069239660900090595435471_c1_e17402325428497424293_anull_o1_dhotelpoitagb_k1002"
+    },
+    {
+      "poiid": 82845819,
+      "ct_poi": "187081312924862069239660900090595435471_c2_e17402325428497424293_anull_o1_dhotelpoitagb_k1002"
+    },
+    {
+      "poiid": 1474008,
+      "ct_poi": "187081312924862069239660900090595435471_c3_e17402325428497424293_anull_o1_dhotelpoitagb_k1002"
+    },
+    {
+      "poiid": 195880155,
+      "ct_poi": "187081312924862069239660900090595435471_c4_e17402325428497424293_anull_o1_dhotelpoitagb_k1002"
+    },
+    {
+      "poiid": 150555816,
+      "ct_poi": "187081312924862069239660900090595435471_c5_e17402325428497424293_anull_o1_dhotelpoitagb_k1002"
+    },
+    {
+      "poiid": 1533897,
+      "ct_poi": "187081312924862069239660900090595435471_c6_e17402325428497424293_anull_o1_dhotelpoitagb_k1002"
+    },
+    {
+      "poiid": 2370619,
+      "ct_poi": "187081312924862069239660900090595435471_c7_e17402325428497424293_anull_o1_dhotelpoitagb_k1002"
+    },
+    {
+      "poiid": 183214101,
+      "ct_poi": "187081312924862069239660900090595435471_c8_e17402325428497424293_anull_o1_dhotelpoitagb_k1002"
+    },
+    {
+      "poiid": 1445690,
+      "ct_poi": "187081312924862069239660900090595435471_c9_e17402325428497424293_anull_o1_dhotelpoitagb_k1002"
+    },
+    {
+      "poiid": 42905377,
+      "ct_poi": "187081312924862069239660900090595435471_c10_e17402325428497424293_anull_o1_dhotelpoitagb_k1002"
+    },
+    {
+      "poiid": 5485138,
+      "ct_poi": "187081312924862069239660900090595435471_c11_e17402325428497424293_anull_o1_dhotelpoitagb_k1002"
+    },
+    {
+      "poiid": 2267519,
+      "ct_poi": "187081312924862069239660900090595435471_c12_e17402325428497424293_anull_o1_dhotelpoitagb_k1002"
+    },
+    {
+      "poiid": 2462435,
+      "ct_poi": "187081312924862069239660900090595435471_c13_e17402325428497424293_anull_o1_dhotelpoitagb_k1002"
+    },
+    {
+      "poiid": 87912280,
+      "ct_poi": "187081312924862069239660900090595435471_c14_e17402325428497424293_anull_o1_dhotelpoitagb_k1002"
+    },
+    {
+      "poiid": 89723406,
+      "ct_poi": "187081312924862069239660900090595435471_c15_e17402325428497424293_anull_o1_dhotelpoitagb_k1002"
+    }
+  ],
+  "propagateData": [
+    {
+      "id": 1566752,
+      "data": {
+        "content": "CYksnts4RuHwqJNWe0pdnK8Ng5tnwha8SdRG15RNDu4ytLrhA3I4yAmJV4I+eF0foihuw4ruO5In+uH1fB2qlf+5t4KK179+2SMV/aPcomT24G/IuL5DPCvSpt3uO1mzAENwalAwpbWerfXMp/CygQaTAZdQ/LytyKGU87b8Re+ZGJiLp71NvGjhTElIM5wTtsPtimsI68qzvg/ILKqMESd15atypegwPXhxYODJGPq0BlZ4v1yJmJosElKN2ig1u2CNHcyNV0aCk0v7fZpYQLXlLwLO/Ue7KRvcQNuw4wvZ+NA8maP3/QFkb+qg0NF388OXN+XiVPI+5WZizUHEGXscEVImZaIHMldUt9HSzmagnkqyMjX5a1yqrMiiCl+JSDhA12tbHHX5zUmykIApIbouC/ijniOZpgPoghZ8Nn+JbXYXvmZ+8UoJwx5mqQ2SkDuwscq4NT16hKDA2LwXwDaKpnbvlcFOkqmE6Z8OMrh+LNMh6aO3kuRUdXc1V1ew+YawjzwK0de/KkOH/630sulilwmwBU/R1zZCuI85fluw/McapkuIU6cJ0YVushZZ5PWOMTjIuHSl6j3KwQVczMg3isVEZ66NLfA/e+rEWr4JeSpjc/j/5hbXBuCQDS5NuOfIGeUtzrbvktvvGBzg3utdjS3OjZUA6jQnq2FPpMtTMk1B34yHXhoE2thNHHgJcyeCTRST5uz8AkaGHgvp0h4cHkfvb3ylOOCnvKvoEUKOtMX9ZoR6HOlbFzoNdLhuQXksWXuB2M0rVt6A3FC15QeSDmBrv8W53Ngmd/G8FV2iHeADKVDN5jrbBJtnAfccIzF1z27+Lb54RQo826ehHzVa+0cXB8afzDHJncFAOa0",
+        "contentTransparent": "GEPlcelHMZDS3rVSfkdT3JURS88wJc+gPBMBdqDlazBzX1cOyvq/teblJlnQI0xwmRzorQQ9ZxQQP9M6rurN/N62Dvrrh3wy5L6ykfAyPV9jGUBCDu+/UpIQDznr5ql1CFOT81Hs646DXv5Bu7CCI++TwfbedxUnNI26gnMsTRQFtPp2AZdKo8/BGDSj4STpQIOgH8PVR9e5X1F3E4R51aS4WHBdRvopDhXCOoyK6hMjkUiCVOy4CqRuC3g++X3+pOWL6f6GWA3QzyQneX9FAQ",
+        "poiType": "1"
+      }
+    },
+    {
+      "id": 2267445,
+      "data": {
+        "content": "CYksnts4RuHwqJNWe0pdnMrng6LU6ieDt3uls8IFvM78JJqAn+q0dDiLhKE8ZWUEoihuw4ruO5In+uH1fB2qldx2M5sWsVdwT0cK+Y5j16ma1MyHqiCXqlO5XToLCUH9AENwalAwpbWerfXMp/CygQaTAZdQ/LytyKGU87b8Re+ZGJiLp71NvGjhTElIM5wTtsPtimsI68qzvg/ILKqMESd15atypegwPXhxYODJGPq0BlZ4v1yJmJosElKN2ig1u2CNHcyNV0aCk0v7fZpYQLXlLwLO/Ue7KRvcQNuw4wvZ+NA8maP3/QFkb+qg0NF388OXN+XiVPI+5WZizUHEGXscEVImZaIHMldUt9HSzmZR1IaWSJ69eb6tenX2QjC/SDhA12tbHHX5zUmykIApIbouC/ijniOZpgPoghZ8Nn+JbXYXvmZ+8UoJwx5mqQ2SkDuwscq4NT16hKDA2LwXwDaKpnbvlcFOkqmE6Z8OMrh+LNMh6aO3kuRUdXc1V1ew+YawjzwK0de/KkOH/630sulilwmwBU/R1zZCuI85fluw/McapkuIU6cJ0YVushZZ5PWOMTjIuHSl6j3KwQVczMg3isVEZ66NLfA/e+rEWr4JeSpjc/j/5hbXBuCQDS5NuOfIGeUtzrbvktvvGBzg3utdjS3OjZUA6jQnq2FPpMtTMk1B34yHXhoE2thNHHgJcyeCTRST5uz8AkaGHgvp0h4cHkfvb3ylOOCnvKvoEUKOtMX9ZoR6HOlbFzoNdLhuQXksWXuB2M0rVt6A3FC15QeSDmBrv8W53Ngmd/G8FV2iHeADKVDN5jrbBJtnAfccIzF1z27+Lb54RQo826ehHzVa+0cXB8afzDHJncFAOa0",
+        "contentTransparent": "qJ3VKDvzcs6oKyGImcOsYJURS88wJc+gPBMBdqDlazBzX1cOyvq/teblJlnQI0xwmRzorQQ9ZxQQP9M6rurN/N62Dvrrh3wy5L6ykfAyPV9jGUBCDu+/UpIQDznr5ql1CFOT81Hs646DXv5Bu7CCI++TwfbedxUnNI26gnMsTRQFtPp2AZdKo8/BGDSj4STpQIOgH8PVR9e5X1F3E4R51aS4WHBdRvopDhXCOoyK6hMjkUiCVOy4CqRuC3g++X3+pOWL6f6GWA3QzyQneX9FAQ",
+        "poiType": "1"
+      }
+    },
+    {
+      "id": 82845819,
+      "data": {
+        "content": "CYksnts4RuHwqJNWe0pdnA1ecxBgTKKe0V3chB9M4oK+yv2svpxXEtnk2E1HujpOsDDk2NICl0VAqm5/joSmPe+2hIghWk9g033GqPQVFZGzuxgtPZTfaATi0KAw9FUfy/vZ1jOlhIwGQgnMqht7Y6VFAcPjFN/3ix7IVaxZtDgwmpllhv3TL3J8xHEGIJMUJkduXdEs+twp16wipcZ+784zcaAKlRojO+nvy3gFiwjZJXK2aKyO01x5IBjZY/hm5be3PXGRIX9GbDIXYGstXGqKoV0NB4P5o7scUrKApTgG/scyGj/zcMu3+x7JFmL33YWY91FbA4clJWdWTNKt97eZMMZ8TBFZr0FViAiq1R+W47D5GgZ159t9jg9GJghUrLDXs7RcMHBBfNyAzlc1wjxHh6MrgOHe/3skxiCu2M55zwl9eJs1suVUyeBFsm+HjRI/1Ztm6MGGn90i5zb+FHygL4Ua8Bt5q3nHJf6nUjO9qt8H0QBKAEnIqMP3yHlF6HE8yJ6Qtk4WSdX9/vxQ73COnX6KS97kds1DLxBG0c8kBlPr3eMDwch3uN0nXpl1e74tuMePRTwgJssi1uXazHz2loSM9WiIC1Xu5J/pYxvG4PTVl/TRm8SFzeSIrO1KspEExj6CwhgwO7gLGpr4TFszZhSoe8wk8HZOkPgl0JkMWK6M2cPVEuPtGFGlreTp8gWYQC/qPyw8/Q7Ah/goES0D+BFmW8BUs6SEdRGzQjxeJuOaLMzRT6WHg10SB4tD2qjuwXEaJ3M3SmfYnwZsZryelkSiih6IFK+wU7QaNvj+AHAoSrcsNwIz6uzzW/X+PJcDlnzVvz9Wzuonwss3lzmqmNWAKoEAOMheN2pZfd8",
+        "contentTransparent": "9cHL55aLqTMSA5SfmJpiW1aOEWsWgQfIMHVzAS9Vpmk3vDfTj6CQacWzgFrejxiNcLido+Xv5ffo4/kEQOzcJuLcC+jL8UByr8yHxPGruCng72HLwTHFwwqk7eWn/lLc/uei8o+OP3tyaDeicRiS/HQI2Opmel4cLEpT0Ki0x89/bMuht66cnft2pO/UOpMqFda1XJPOFPSO/2r7QUdSaTxunExzdaQcExxTJRfk61AwwxubVO+PCrscGHIRtlvZYkgz5Hvba62knsOh4TlSFw",
+        "poiType": "1"
+      }
+    },
+    {
+      "id": 1474008,
+      "data": {
+        "content": "CYksnts4RuHwqJNWe0pdnKAARNK2oqOKlg4FYv5yTaH6fTFbIqzZ922XxhS3CqAcoihuw4ruO5In+uH1fB2qlVgr+654DsNBcKmH+rWPob7Z3L8hHozLUrTtmw80LK0NAENwalAwpbWerfXMp/CygQaTAZdQ/LytyKGU87b8Re+ZGJiLp71NvGjhTElIM5wTtsPtimsI68qzvg/ILKqMESd15atypegwPXhxYODJGPq0BlZ4v1yJmJosElKN2ig1u2CNHcyNV0aCk0v7fZpYQLXlLwLO/Ue7KRvcQNuw4wvZ+NA8maP3/QFkb+qg0NF388OXN+XiVPI+5WZizUHEGXscEVImZaIHMldUt9HSzmbxMuyJYW4KUlbTMiAK6zgySDhA12tbHHX5zUmykIApIbouC/ijniOZpgPoghZ8Nn+JbXYXvmZ+8UoJwx5mqQ2SkDuwscq4NT16hKDA2LwXwDaKpnbvlcFOkqmE6Z8OMrh+LNMh6aO3kuRUdXc1V1ew+YawjzwK0de/KkOH/630sulilwmwBU/R1zZCuI85fluw/McapkuIU6cJ0YVushZZ5PWOMTjIuHSl6j3KwQVczMg3isVEZ66NLfA/e+rEWr4JeSpjc/j/5hbXBuCQDS5NuOfIGeUtzrbvktvvGBzg3utdjS3OjZUA6jQnq2FPpMtTMk1B34yHXhoE2thNHHgJcyeCTRST5uz8AkaGHgvp0h4cHkfvb3ylOOCnvKvoEUKOtMX9ZoR6HOlbFzoNdLhuQXksWXuB2M0rVt6A3FC15QeSDmBrv8W53Ngmd/G8FV2iHeADKVDN5jrbBJtnAfccIzF1z27+Lb54RQo826ehHzVa+0cXB8afzDHJncFAOa0",
+        "contentTransparent": "0/pr8iGOVQipRYWyUp6kIJURS88wJc+gPBMBdqDlazBzX1cOyvq/teblJlnQI0xwmRzorQQ9ZxQQP9M6rurN/N62Dvrrh3wy5L6ykfAyPV9jGUBCDu+/UpIQDznr5ql1CFOT81Hs646DXv5Bu7CCI++TwfbedxUnNI26gnMsTRQFtPp2AZdKo8/BGDSj4STpQIOgH8PVR9e5X1F3E4R51aS4WHBdRvopDhXCOoyK6hMjkUiCVOy4CqRuC3g++X3+pOWL6f6GWA3QzyQneX9FAQ",
+        "poiType": "1"
+      }
+    },
+    {
+      "id": 195880155,
+      "data": {
+        "content": "CYksnts4RuHwqJNWe0pdnCVg1ueID1ER2D0pz7JMAR/ShAXnIVVvuLcdAxMbaaW+oihuw4ruO5In+uH1fB2qlXUh8G1fcHk2EgAaSSfhWL6mtwatAzhOLSC+1a8ihJzAAENwalAwpbWerfXMp/CygQaTAZdQ/LytyKGU87b8Re+ZGJiLp71NvGjhTElIM5wTtsPtimsI68qzvg/ILKqMESd15atypegwPXhxYODJGPq0BlZ4v1yJmJosElKN2ig1u2CNHcyNV0aCk0v7fZpYQLXlLwLO/Ue7KRvcQNuw4wvZ+NA8maP3/QFkb+qg0NF388OXN+XiVPI+5WZizUHEGXscEVImZaIHMldUt9HSzmZpPgh5nIOPwNP9afQsHFkc188o1i0a7LiOsjcbItDGyzxHh6MrgOHe/3skxiCu2M55zwl9eJs1suVUyeBFsm+HjRI/1Ztm6MGGn90i5zb+FHygL4Ua8Bt5q3nHJf6nUjO9qt8H0QBKAEnIqMP3yHlF6HE8yJ6Qtk4WSdX9/vxQ73COnX6KS97kds1DLxBG0c8kBlPr3eMDwch3uN0nXpl1e74tuMePRTwgJssi1uXazHz2loSM9WiIC1Xu5J/pYxvG4PTVl/TRm8SFzeSIrO1KspEExj6CwhgwO7gLGpr4TFszZhSoe8wk8HZOkPgl0JkMWK6M2cPVEuPtGFGlreTp8gWYQC/qPyw8/Q7Ah/goES0D+BFmW8BUs6SEdRGzQjxeJuOaLMzRT6WHg10SB4tD2qjuwXEaJ3M3SmfYnwZsZryelkSiih6IFK+wU7QaNvj+AHAoSrcsNwIz6uzzW/X+PJcDlnzVvz9Wzuonwss3lzmqmNWAKoEAOMheN2pZfd8",
+        "contentTransparent": "QT0QLt9THMeM27knTQSc/SczXgpMDbql086zHZ6ZsfD4jrFez0ZZAu7BoRzPnEQcMQQlYleRmEvI77IbUo0iO/EgseApW0OPAXQPPN7fvPJZkLNbeDAXnY/NCo/wg5apwlz/5ghZjnpb6gaFHaNYTHd3DZYvEmxLOWOtSsUpK4rT4oFrZmD+ZuEua/fCb6hW0l7oOzP+3VIyAmf9r2LUHUpj8nqSaq4PL7HeoFPGoVX7b/by1Kq7m4KJ+f48Xn90F6tA0PBBAnRi4TF4ToPYjQ",
+        "poiType": "1"
+      }
+    },
+    {
+      "id": 150555816,
+      "data": {
+        "content": "CYksnts4RuHwqJNWe0pdnFfFkOSx+UhO64o6UbHtcAn6fTFbIqzZ922XxhS3CqAcoihuw4ruO5In+uH1fB2qldfnDIJyvEBee41Tuk8kIxGhmMYWRQzMNlGfucCmvIQqAENwalAwpbWerfXMp/CygQaTAZdQ/LytyKGU87b8Re+ZGJiLp71NvGjhTElIM5wTtsPtimsI68qzvg/ILKqMESd15atypegwPXhxYODJGPq0BlZ4v1yJmJosElKN2ig1u2CNHcyNV0aCk0v7fZpYQLXlLwLO/Ue7KRvcQNuw4wvZ+NA8maP3/QFkb+qg0NF388OXN+XiVPI+5WZizUHEGXscEVImZaIHMldUt9HSzmYZykyylJnUhdFFvXr9/ES3PS+oQa0e8/43Jp4rLDv+PzxHh6MrgOHe/3skxiCu2M55zwl9eJs1suVUyeBFsm+HjRI/1Ztm6MGGn90i5zb+FHygL4Ua8Bt5q3nHJf6nUjO9qt8H0QBKAEnIqMP3yHlF6HE8yJ6Qtk4WSdX9/vxQ73COnX6KS97kds1DLxBG0c8kBlPr3eMDwch3uN0nXpl1e74tuMePRTwgJssi1uXazHz2loSM9WiIC1Xu5J/pYxvG4PTVl/TRm8SFzeSIrO1KspEExj6CwhgwO7gLGpr4TFszZhSoe8wk8HZOkPgl0JkMWK6M2cPVEuPtGFGlreTp8gWYQC/qPyw8/Q7Ah/goES0D+BFmW8BUs6SEdRGzQjxeJuOaLMzRT6WHg10SB4tD2qjuwXEaJ3M3SmfYnwZsZryelkSiih6IFK+wU7QaNvj+AHAoSrcsNwIz6uzzW/X+PJcDlnzVvz9Wzuonwss3lzmqmNWAKoEAOMheN2pZfd8",
+        "contentTransparent": "3NvxjqJnfQdZh8J03Hm9NVKMuHZXQTQUhewZ6JHgC3P4jrFez0ZZAu7BoRzPnEQcMQQlYleRmEvI77IbUo0iO/EgseApW0OPAXQPPN7fvPJZkLNbeDAXnY/NCo/wg5apwlz/5ghZjnpb6gaFHaNYTHd3DZYvEmxLOWOtSsUpK4rT4oFrZmD+ZuEua/fCb6hW0l7oOzP+3VIyAmf9r2LUHUpj8nqSaq4PL7HeoFPGoVX7b/by1Kq7m4KJ+f48Xn90F6tA0PBBAnRi4TF4ToPYjQ",
+        "poiType": "1"
+      }
+    },
+    {
+      "id": 1533897,
+      "data": {
+        "content": "CYksnts4RuHwqJNWe0pdnIeE8Qp/uyz1RTTAckVgjpCVRBipeYZbK6oHtDk3YBr7oihuw4ruO5In+uH1fB2qlaLIvFeYe8RNHqIc/d0DClymtwatAzhOLSC+1a8ihJzAAENwalAwpbWerfXMp/CygQaTAZdQ/LytyKGU87b8Re+ZGJiLp71NvGjhTElIM5wTtsPtimsI68qzvg/ILKqMESd15atypegwPXhxYODJGPq0BlZ4v1yJmJosElKN2ig1u2CNHcyNV0aCk0v7fZpYQLXlLwLO/Ue7KRvcQNuw4wvZ+NA8maP3/QFkb+qg0NF388OXN+XiVPI+5WZizUHEGXscEVImZaIHMldUt9HSzmYwzixejd4QRtZ+p2gPzV0gSDhA12tbHHX5zUmykIApIbouC/ijniOZpgPoghZ8Nn+JbXYXvmZ+8UoJwx5mqQ2SkDuwscq4NT16hKDA2LwXwDaKpnbvlcFOkqmE6Z8OMrh+LNMh6aO3kuRUdXc1V1ew+YawjzwK0de/KkOH/630sulilwmwBU/R1zZCuI85fluw/McapkuIU6cJ0YVushZZ5PWOMTjIuHSl6j3KwQVczMg3isVEZ66NLfA/e+rEWr4JeSpjc/j/5hbXBuCQDS5NuOfIGeUtzrbvktvvGBzg3utdjS3OjZUA6jQnq2FPpMtTMk1B34yHXhoE2thNHHgJcyeCTRST5uz8AkaGHgvp0h4cHkfvb3ylOOCnvKvoEUKOtMX9ZoR6HOlbFzoNdLhuQXksWXuB2M0rVt6A3FC15QeSDmBrv8W53Ngmd/G8FV2iHeADKVDN5jrbBJtnAfccIzF1z27+Lb54RQo826ehHzVa+0cXB8afzDHJncFAOa0",
+        "contentTransparent": "UfknUJfUz2sttYER9/k2d5URS88wJc+gPBMBdqDlazBzX1cOyvq/teblJlnQI0xwmRzorQQ9ZxQQP9M6rurN/N62Dvrrh3wy5L6ykfAyPV9jGUBCDu+/UpIQDznr5ql1CFOT81Hs646DXv5Bu7CCI++TwfbedxUnNI26gnMsTRQFtPp2AZdKo8/BGDSj4STpQIOgH8PVR9e5X1F3E4R51aS4WHBdRvopDhXCOoyK6hMjkUiCVOy4CqRuC3g++X3+pOWL6f6GWA3QzyQneX9FAQ",
+        "poiType": "1"
+      }
+    },
+    {
+      "id": 2370619,
+      "data": {
+        "content": "CYksnts4RuHwqJNWe0pdnFEwwUZSSJ2obNQT1We7OoAytLrhA3I4yAmJV4I+eF0foihuw4ruO5In+uH1fB2qlWuQCYqCsgfvHduY9L+WFMyYu32+wQ9HMROt7TMFwesdAENwalAwpbWerfXMp/CygQaTAZdQ/LytyKGU87b8Re+ZGJiLp71NvGjhTElIM5wTtsPtimsI68qzvg/ILKqMESd15atypegwPXhxYODJGPq0BlZ4v1yJmJosElKN2ig1u2CNHcyNV0aCk0v7fZpYQLXlLwLO/Ue7KRvcQNuw4wvZ+NA8maP3/QFkb+qg0NF388OXN+XiVPI+5WZizUHEGXscEVImZaIHMldUt9HSzmYXYH/zPsqEYKWOAMTrdyhfSDhA12tbHHX5zUmykIApIbouC/ijniOZpgPoghZ8Nn+JbXYXvmZ+8UoJwx5mqQ2SkDuwscq4NT16hKDA2LwXwDaKpnbvlcFOkqmE6Z8OMrh+LNMh6aO3kuRUdXc1V1ew+YawjzwK0de/KkOH/630sulilwmwBU/R1zZCuI85fluw/McapkuIU6cJ0YVushZZ5PWOMTjIuHSl6j3KwQVczMg3isVEZ66NLfA/e+rEWr4JeSpjc/j/5hbXBuCQDS5NuOfIGeUtzrbvktvvGBzg3utdjS3OjZUA6jQnq2FPpMtTMk1B34yHXhoE2thNHHgJcyeCTRST5uz8AkaGHgvp0h4cHkfvb3ylOOCnvKvoEUKOtMX9ZoR6HOlbFzoNdLhuQXksWXuB2M0rVt6A3FC15QeSDmBrv8W53Ngmd/G8FV2iHeADKVDN5jrbBJtnAfccIzF1z27+Lb54RQo826ehHzVa+0cXB8afzDHJncFAOa0",
+        "contentTransparent": "KVO1gDhg1ezLvZLIL92+lZURS88wJc+gPBMBdqDlazBzX1cOyvq/teblJlnQI0xwmRzorQQ9ZxQQP9M6rurN/N62Dvrrh3wy5L6ykfAyPV9jGUBCDu+/UpIQDznr5ql1CFOT81Hs646DXv5Bu7CCI++TwfbedxUnNI26gnMsTRQFtPp2AZdKo8/BGDSj4STpQIOgH8PVR9e5X1F3E4R51aS4WHBdRvopDhXCOoyK6hMjkUiCVOy4CqRuC3g++X3+pOWL6f6GWA3QzyQneX9FAQ",
+        "poiType": "1"
+      }
+    },
+    {
+      "id": 183214101,
+      "data": {
+        "content": "CYksnts4RuHwqJNWe0pdnGTSQoldzNp0loo7gkcqYV0yrl5cb1gyF5seZl6enSTfoihuw4ruO5In+uH1fB2qldMYGYqg1bQ0Jr4yV3L5W/v/99nxVTWmCXhsK7XcwG8nAENwalAwpbWerfXMp/CygQaTAZdQ/LytyKGU87b8Re+ZGJiLp71NvGjhTElIM5wTtsPtimsI68qzvg/ILKqMESd15atypegwPXhxYODJGPq0BlZ4v1yJmJosElKN2ig1u2CNHcyNV0aCk0v7fZpYQLXlLwLO/Ue7KRvcQNuw4wvZ+NA8maP3/QFkb+qg0NF388OXN+XiVPI+5WZizUHEGXscEVImZaIHMldUt9HSzmbd8SxOXDFLNi1/kMatLp1/HmuBDGBZbCHf5lMLQ44tKDxHh6MrgOHe/3skxiCu2M55zwl9eJs1suVUyeBFsm+HjRI/1Ztm6MGGn90i5zb+FHygL4Ua8Bt5q3nHJf6nUjO9qt8H0QBKAEnIqMP3yHlF6HE8yJ6Qtk4WSdX9/vxQ73COnX6KS97kds1DLxBG0c8kBlPr3eMDwch3uN0nXpl1e74tuMePRTwgJssi1uXazHz2loSM9WiIC1Xu5J/pYxvG4PTVl/TRm8SFzeSIrO1KspEExj6CwhgwO7gLGpr4TFszZhSoe8wk8HZOkPgl0JkMWK6M2cPVEuPtGFGlreTp8gWYQC/qPyw8/Q7Ah/goES0D+BFmW8BUs6SEdRGzQjxeJuOaLMzRT6WHg10SB4tD2qjuwXEaJ3M3SmfYnwZsZryelkSiih6IFK+wU7QaNvj+AHAoSrcsNwIz6uzzW/X+PJcDlnzVvz9Wzuonwss3lzmqmNWAKoEAOMheN2pZfd8",
+        "contentTransparent": "mYqgV67BzJ/7O779L8zo7/CTWvkvDARb5RBLqgcvpAj4jrFez0ZZAu7BoRzPnEQcMQQlYleRmEvI77IbUo0iO/EgseApW0OPAXQPPN7fvPJZkLNbeDAXnY/NCo/wg5apwlz/5ghZjnpb6gaFHaNYTHd3DZYvEmxLOWOtSsUpK4rT4oFrZmD+ZuEua/fCb6hW0l7oOzP+3VIyAmf9r2LUHUpj8nqSaq4PL7HeoFPGoVX7b/by1Kq7m4KJ+f48Xn90F6tA0PBBAnRi4TF4ToPYjQ",
+        "poiType": "1"
+      }
+    },
+    {
+      "id": 1445690,
+      "data": {
+        "content": "CYksnts4RuHwqJNWe0pdnHYK2BMbI3P1iqihckXNcMgqhLpQAEJcxGXE9VH3W/76oihuw4ruO5In+uH1fB2qlXNnhxGl/gfYZQy4B5tKY4cQ+8VGBgO11xRoKfxcd/c3AENwalAwpbWerfXMp/CygQaTAZdQ/LytyKGU87b8Re+ZGJiLp71NvGjhTElIM5wTtsPtimsI68qzvg/ILKqMESd15atypegwPXhxYODJGPq0BlZ4v1yJmJosElKN2ig1u2CNHcyNV0aCk0v7fZpYQLXlLwLO/Ue7KRvcQNuw4wvZ+NA8maP3/QFkb+qg0NF388OXN+XiVPI+5WZizUHEGXscEVImZaIHMldUt9HSzmYFX4apGx4f2x2GNWzftQWzSDhA12tbHHX5zUmykIApIbouC/ijniOZpgPoghZ8Nn+JbXYXvmZ+8UoJwx5mqQ2SkDuwscq4NT16hKDA2LwXwDaKpnbvlcFOkqmE6Z8OMrh+LNMh6aO3kuRUdXc1V1ew+YawjzwK0de/KkOH/630sulilwmwBU/R1zZCuI85fluw/McapkuIU6cJ0YVushZZ5PWOMTjIuHSl6j3KwQVczMg3isVEZ66NLfA/e+rEWr4JeSpjc/j/5hbXBuCQDS5NuOfIGeUtzrbvktvvGBzg3utdjS3OjZUA6jQnq2FPpMtTMk1B34yHXhoE2thNHHgJcyeCTRST5uz8AkaGHgvp0h4cHkfvb3ylOOCnvKvoEUKOtMX9ZoR6HOlbFzoNdLhuQXksWXuB2M0rVt6A3FC15QeSDmBrv8W53Ngmd/G8FV2iHeADKVDN5jrbBJtnAfccIzF1z27+Lb54RQo826ehHzVa+0cXB8afzDHJncFAOa0",
+        "contentTransparent": "JB2EGCoOQWIcYbBr1hX5SpURS88wJc+gPBMBdqDlazBzX1cOyvq/teblJlnQI0xwmRzorQQ9ZxQQP9M6rurN/N62Dvrrh3wy5L6ykfAyPV9jGUBCDu+/UpIQDznr5ql1CFOT81Hs646DXv5Bu7CCI++TwfbedxUnNI26gnMsTRQFtPp2AZdKo8/BGDSj4STpQIOgH8PVR9e5X1F3E4R51aS4WHBdRvopDhXCOoyK6hMjkUiCVOy4CqRuC3g++X3+pOWL6f6GWA3QzyQneX9FAQ",
+        "poiType": "1"
+      }
+    },
+    {
+      "id": 42905377,
+      "data": {
+        "content": "CYksnts4RuHwqJNWe0pdnMrng6LU6ieDt3uls8IFvM4yrl5cb1gyF5seZl6enSTfoihuw4ruO5In+uH1fB2qlegBVkQA1MPIP63kbxpELSJLWmmLRURJFMHGwLaRu6OXJtMbZhkAdELoCT4bDqdEiZ5uP9GN3fG+LaZGU6zDuO3+5o7VQb+xsKly/RqAE6ZRyZ+p49sKCD/+A+Ljt1ie5a0t2wUhFXh8pqUd4BnWOcQ6JTv4XifY8XKIWvUsbVc348Dl6OAZ5B1SMPcy1tFKDNxmHUBf2H5U6tLPjI8/KT9TKW8EWzMaj/ksA4oQdMXMxI2TFOSgFHwby653usXvfhiph+unhPw7tl4WsS8CUvNv81G0PFaCXiCDJE/XzccjSDhA12tbHHX5zUmykIApIbouC/ijniOZpgPoghZ8Nn+JbXYXvmZ+8UoJwx5mqQ2SkDuwscq4NT16hKDA2LwXwDaKpnbvlcFOkqmE6Z8OMrh+LNMh6aO3kuRUdXc1V1ew+YawjzwK0de/KkOH/630sulilwmwBU/R1zZCuI85fluw/McapkuIU6cJ0YVushZZ5PWOMTjIuHSl6j3KwQVczMg3isVEZ66NLfA/e+rEWr4JeSpjc/j/5hbXBuCQDS5NuOfIGeUtzrbvktvvGBzg3utdjS3OjZUA6jQnq2FPpMtTMk1B34yHXhoE2thNHHgJcyeCTRST5uz8AkaGHgvp0h4cHkfvb3ylOOCnvKvoEUKOtMX9ZoR6HOlbFzoNdLhuQXksWXuB2M0rVt6A3FC15QeSDmBrv8W53Ngmd/G8FV2iHeADKVDN5jrbBJtnAfccIzF1z27+Lb54RQo826ehHzVa+0cXB8afzDHJncFAOa0",
+        "contentTransparent": "aKxPXmUbdHVjUHf4KmAmNYD19VS596lLfe/yIe4UsQA3vDfTj6CQacWzgFrejxiNcLido+Xv5ffo4/kEQOzcJuLcC+jL8UByr8yHxPGruCng72HLwTHFwwqk7eWn/lLc/uei8o+OP3tyaDeicRiS/HQI2Opmel4cLEpT0Ki0x89/bMuht66cnft2pO/UOpMqFda1XJPOFPSO/2r7QUdSaTxunExzdaQcExxTJRfk61AwwxubVO+PCrscGHIRtlvZYkgz5Hvba62knsOh4TlSFw",
+        "poiType": "1"
+      }
+    },
+    {
+      "id": 5485138,
+      "data": {
+        "content": "CYksnts4RuHwqJNWe0pdnI0EY1igKPVyapGK13s23fYytLrhA3I4yAmJV4I+eF0foihuw4ruO5In+uH1fB2qlTVZF7Oszp821sM+5gcL7rWeCAvMIdgoWEfotpy0vHdtAENwalAwpbWerfXMp/CygQaTAZdQ/LytyKGU87b8Re+ZGJiLp71NvGjhTElIM5wTtsPtimsI68qzvg/ILKqMESd15atypegwPXhxYODJGPq0BlZ4v1yJmJosElKN2ig1u2CNHcyNV0aCk0v7fZpYQLXlLwLO/Ue7KRvcQNuw4wvZ+NA8maP3/QFkb+qg0NF388OXN+XiVPI+5WZizUHEGXscEVImZaIHMldUt9HSzmbND2xxYkjg1IpYnevQUYhFSDhA12tbHHX5zUmykIApIbouC/ijniOZpgPoghZ8Nn+JbXYXvmZ+8UoJwx5mqQ2SkDuwscq4NT16hKDA2LwXwDaKpnbvlcFOkqmE6Z8OMrh+LNMh6aO3kuRUdXc1V1ew+YawjzwK0de/KkOH/630sulilwmwBU/R1zZCuI85fluw/McapkuIU6cJ0YVushZZ5PWOMTjIuHSl6j3KwQVczMg3isVEZ66NLfA/e+rEWr4JeSpjc/j/5hbXBuCQDS5NuOfIGeUtzrbvktvvGBzg3utdjS3OjZUA6jQnq2FPpMtTMk1B34yHXhoE2thNHHgJcyeCTRST5uz8AkaGHgvp0h4cHkfvb3ylOOCnvKvoEUKOtMX9ZoR6HOlbFzoNdLhuQXksWXuB2M0rVt6A3FC15QeSDmBrv8W53Ngmd/G8FV2iHeADKVDN5jrbBJtnAfccIzF1z27+Lb54RQo826ehHzVa+0cXB8afzDHJncFAOa0",
+        "contentTransparent": "NOsi3+Cvn2wa1Ru9wv8ea5URS88wJc+gPBMBdqDlazBzX1cOyvq/teblJlnQI0xwmRzorQQ9ZxQQP9M6rurN/N62Dvrrh3wy5L6ykfAyPV9jGUBCDu+/UpIQDznr5ql1CFOT81Hs646DXv5Bu7CCI++TwfbedxUnNI26gnMsTRQFtPp2AZdKo8/BGDSj4STpQIOgH8PVR9e5X1F3E4R51aS4WHBdRvopDhXCOoyK6hMjkUiCVOy4CqRuC3g++X3+pOWL6f6GWA3QzyQneX9FAQ",
+        "poiType": "1"
+      }
+    },
+    {
+      "id": 2267519,
+      "data": {
+        "content": "CYksnts4RuHwqJNWe0pdnKjhQJkVSt1dicuBGcD8P5U3JnGsYFFITgius6q3s6Stoihuw4ruO5In+uH1fB2qldmwQ+74wYDKGw+qAbF3HY48D2rRqwDLpA7HOnAc1/xSAENwalAwpbWerfXMp/CygQaTAZdQ/LytyKGU87b8Re+ZGJiLp71NvGjhTElIM5wTtsPtimsI68qzvg/ILKqMESd15atypegwPXhxYODJGPq0BlZ4v1yJmJosElKN2ig1u2CNHcyNV0aCk0v7fZpYQLXlLwLO/Ue7KRvcQNuw4wvZ+NA8maP3/QFkb+qg0NF388OXN+XiVPI+5WZizUHEGXscEVImZaIHMldUt9HSzmZFUglSNmO1FlD8s/8+tqV5SDhA12tbHHX5zUmykIApIbouC/ijniOZpgPoghZ8Nn+JbXYXvmZ+8UoJwx5mqQ2SkDuwscq4NT16hKDA2LwXwDaKpnbvlcFOkqmE6Z8OMrh+LNMh6aO3kuRUdXc1V1ew+YawjzwK0de/KkOH/630sulilwmwBU/R1zZCuI85fluw/McapkuIU6cJ0YVushZZ5PWOMTjIuHSl6j3KwQVczMg3isVEZ66NLfA/e+rEWr4JeSpjc/j/5hbXBuCQDS5NuOfIGeUtzrbvktvvGBzg3utdjS3OjZUA6jQnq2FPpMtTMk1B34yHXhoE2thNHHgJcyeCTRST5uz8AkaGHgvp0h4cHkfvb3ylOOCnvKvoEUKOtMX9ZoR6HOlbFzoNdLhuQXksWXuB2M0rVt6A3FC15QeSDmBrv8W53Ngmd/G8FV2iHeADKVDN5jrbBJtnAfccIzF1z27+Lb54RQo826ehHzVa+0cXB8afzDHJncFAOa0",
+        "contentTransparent": "GsG/ZbDHrEycKnpL/aVkUJURS88wJc+gPBMBdqDlazBzX1cOyvq/teblJlnQI0xwmRzorQQ9ZxQQP9M6rurN/N62Dvrrh3wy5L6ykfAyPV9jGUBCDu+/UpIQDznr5ql1CFOT81Hs646DXv5Bu7CCI++TwfbedxUnNI26gnMsTRQFtPp2AZdKo8/BGDSj4STpQIOgH8PVR9e5X1F3E4R51aS4WHBdRvopDhXCOoyK6hMjkUiCVOy4CqRuC3g++X3+pOWL6f6GWA3QzyQneX9FAQ",
+        "poiType": "1"
+      }
+    },
+    {
+      "id": 2462435,
+      "data": {
+        "content": "CYksnts4RuHwqJNWe0pdnI1T4FA+665Z0Z9fhxUZKOr6fTFbIqzZ922XxhS3CqAcoihuw4ruO5In+uH1fB2qlUDHfcWmYE/gS78Ce5iYHBr0As6X5SEMozrdXuOvMPVyJtMbZhkAdELoCT4bDqdEiZ5uP9GN3fG+LaZGU6zDuO3+5o7VQb+xsKly/RqAE6ZRyZ+p49sKCD/+A+Ljt1ie5a0t2wUhFXh8pqUd4BnWOcQ6JTv4XifY8XKIWvUsbVc348Dl6OAZ5B1SMPcy1tFKDNxmHUBf2H5U6tLPjI8/KT9TKW8EWzMaj/ksA4oQdMXMxI2TFOSgFHwby653usXvfhiph+unhPw7tl4WsS8CUvNLEPkC0/Cx+OHNoLKgITS1Q+rCLjRyJa0+0vnfvY8D76bcU5pPzkWQxMvvhV861jObT9p83lNEfMthUkRqL9F4sdl1AjdHKj/xkhSwdP6NagBa2kK0uKtW2ZwNCb7utpWVb3T4+AIhl0jShgfymTqr7KxgkvnvvHoUJKck/8zpT09RO28DO2beM2qS5bFifpmUDY0D6uJk5lE9RkziAeZV7jn1/blqd4aSm1ofthWenRegG7Q3rsItBL5jaVvO2rk+gR70jbbhkLn4VMAPmDbvUK6Pb/LdIfwJMi9jA+GObieoTV+GRenNmelkPF2pONY4CUaoT0Sg5JwnNOfmQrTZZyhwKtQo8iGInikpVWTSwf1w/dDj/IUEHeS8cBWPANTUew8GGsX9CukhpFlEoFj9pTadh906WkFgHUYBxVm+Ei1mDSi3IOl/5HSR0thRzqB8sNUYU77JM/KYtOhucnMo0J5XKMKNb9ANs1b00lIDXsF4QqADmw+ZvJxeawEH364",
+        "contentTransparent": "j/zYq3K1cBimdn1u1KocdpURS88wJc+gPBMBdqDlazBzX1cOyvq/teblJlnQI0xwmRzorQQ9ZxQQP9M6rurN/N62Dvrrh3wy5L6ykfAyPV9jGUBCDu+/UpIQDznr5ql1CFOT81Hs646DXv5Bu7CCI++TwfbedxUnNI26gnMsTRQFtPp2AZdKo8/BGDSj4STpQIOgH8PVR9e5X1F3E4R51aS4WHBdRvopDhXCOoyK6hMjkUiCVOy4CqRuC3g++X3+pOWL6f6GWA3QzyQneX9FAQ",
+        "poiType": "1"
+      }
+    },
+    {
+      "id": 87912280,
+      "data": {
+        "content": "CYksnts4RuHwqJNWe0pdnFnLt0tVe7E+QDEnD8nu61/ShAXnIVVvuLcdAxMbaaW+oihuw4ruO5In+uH1fB2qldlwFM5NdlnKpfkEtnD+xWGLlsZF22icj2Z+SlIIEFg5AENwalAwpbWerfXMp/CygQaTAZdQ/LytyKGU87b8Re+ZGJiLp71NvGjhTElIM5wTtsPtimsI68qzvg/ILKqMESd15atypegwPXhxYODJGPq0BlZ4v1yJmJosElKN2ig1u2CNHcyNV0aCk0v7fZpYQLXlLwLO/Ue7KRvcQNuw4wvZ+NA8maP3/QFkb+qg0NF388OXN+XiVPI+5WZizUHEGXscEVImZaIHMldUt9HSzmaK/eUUauZ381R/AN4ROnlAr4x3wQPmJlsUfRcjeKEw/zouRUbiPLjSaL3lBizvo3EmtPvNUHXZyuYtLTd6BADfugxC+8w+9AcnvpFXgeXhYmnN9h+/jNAB/N28gtVVnErlcXgwY1PL6FO+PzbNudOcXk7P38EpsRGZyEMWjg98WC5Xl5FluJHd1mn08W5vgxb3OyQoR2NwunO5fIuptk/4bo3dBRXGPiNb8P6MhKiv3Fff3DJ+65d3rWK2g/9TM2g1PmHg9RdJj9Tq5C/7qyqz0Tace3mpYbpAQ8T4nOyhbf0x+SrwiG/+W6wILeayR4itskBxBaHHWQQkqx5pNoU96Y20DlOALbjlLVkWrIIJNO9x25QDk72BcdVO86QEfE1cpzsLQA7hr+WI5BX7glme4mkwoVtdN7Pe7W/C398QNDS7OVtZr3pDIoBZ8vtluHBFxN2xJHwk4tEDbH9pHg6V6WZ0kRaOwLT3SsigYQjc/i6OuQLIbrq3cSKM8388fVk",
+        "contentTransparent": "6O/CrXvXt1M4tafPiHAXLQDEweqRL0jzDUbtgTkGdAs3vDfTj6CQacWzgFrejxiNcLido+Xv5ffo4/kEQOzcJuLcC+jL8UByr8yHxPGruCng72HLwTHFwwqk7eWn/lLc/uei8o+OP3tyaDeicRiS/HQI2Opmel4cLEpT0Ki0x89/bMuht66cnft2pO/UOpMqFda1XJPOFPSO/2r7QUdSaTxunExzdaQcExxTJRfk61AwwxubVO+PCrscGHIRtlvZYkgz5Hvba62knsOh4TlSFw",
+        "poiType": "1"
+      }
+    },
+    {
+      "id": 89723406,
+      "data": {
+        "content": "CYksnts4RuHwqJNWe0pdnKjhQJkVSt1dicuBGcD8P5UqhLpQAEJcxGXE9VH3W/76oihuw4ruO5In+uH1fB2qlaM0lRq6cSrQ8c6P69CTbqOhcQH0DYYvbWJikTryNeJVjM0izkHkjTkv8SdF+dN6PW9e0yoKUqElDz7JqhIk5MbFau5QYYUjVCOs+9Ajoi1yOMF5CY2i72haKZl0cmfdtoQkAxtqw3sweN5+GNKnAq2cRVk/2rYB/Rwh9nI7gogbb/xAxQsW4G2tgrmZTA4NS2HR2m2DyHpf3G0jLVrQ7zO1QbQoaG2fNI+/TSFwARYkZeldecxhRye2fq/wxNBd8Lr49bdlE8ng5tHSWfGOX0SbLWrCyRy7SUCUD/6K5a/YJ5Z6IdTlgyGOmMDnFYUDzZzA+GDTkOPc21/FNO3jStfJwpOVuJDDB9TsxYOhlEw9y2/zpFgp4JGEhH9X1AZIdwYNFK0qqGAFRQdLDDPR+Agv5YXaW8t8d0rL9rW5oCJDM7/9ig5GOB8Jr9s6QCZ+uXdOOsTXitwkmn4IbqOjitiUbpJiYj/FYKV40pVtp8hY0Wz0g1SL5dmBmhEnaa8Po/+XmC57aa09zr1a95xa7Agc5WgDCmxH7YJLUYEZ6OZ6A6nbD6b6oyViJh3Bmv+LSXOTRNb4nvpDjaPujII4jQwbneP0MiDgAsRQaYeCxRm71jdp0R+zbVQmX1K3NQNkExRo/95XcqqmsXzn74Jhi3tRP9LEqHRtvKibAm3tPhLxWC9B/xTZz3CgCnc3H/N0gUqTK1g5fWxnjr4aWqefoWHhPO0VhatPxFoY2nhaF7OLeNn5EG1s+ju7Tg/bKcwOFw",
+        "contentTransparent": "bHlKNPUFxoHiquv7SDSLGM5VkfMVxwbnfW88aV/8NNSISuLXszwMveBHazjIjpjncLido+Xv5ffo4/kEQOzcJuLcC+jL8UByr8yHxPGruCng72HLwTHFwwqk7eWn/lLc/uei8o+OP3tyaDeicRiS/HQI2Opmel4cLEpT0Ki0x89/bMuht66cnft2pO/UOpMqFda1XJPOFPSO/2r7QUdSaTxunExzdaQcExxTJRfk61AwwxubVO+PCrscGHIRtlvZYkgz5Hvba62knsOh4TlSFw",
+        "poiType": "1"
+      }
+    }
+  ],
+  "conId": "1347894800022248688",
+  "query_ids": [
+    {
+      "poiId": 1566752,
+      "query_id": "97AF57593174BC092E5DD3B425BA083C28982B0CFEB25A61F057C1B33D8CD71A@1600045518569",
+      "position_id": "0",
+      "query_biz_id": "hotel_search_list"
+    },
+    {
+      "poiId": 2267445,
+      "query_id": "97AF57593174BC092E5DD3B425BA083C28982B0CFEB25A61F057C1B33D8CD71A@1600045518569",
+      "position_id": "1",
+      "query_biz_id": "hotel_search_list"
+    },
+    {
+      "poiId": 82845819,
+      "query_id": "97AF57593174BC092E5DD3B425BA083C28982B0CFEB25A61F057C1B33D8CD71A@1600045518569",
+      "position_id": "2",
+      "query_biz_id": "hotel_search_list"
+    },
+    {
+      "poiId": 1474008,
+      "query_id": "97AF57593174BC092E5DD3B425BA083C28982B0CFEB25A61F057C1B33D8CD71A@1600045518569",
+      "position_id": "3",
+      "query_biz_id": "hotel_search_list"
+    },
+    {
+      "poiId": 195880155,
+      "query_id": "97AF57593174BC092E5DD3B425BA083C28982B0CFEB25A61F057C1B33D8CD71A@1600045518569",
+      "position_id": "4",
+      "query_biz_id": "hotel_search_list"
+    },
+    {
+      "poiId": 150555816,
+      "query_id": "97AF57593174BC092E5DD3B425BA083C28982B0CFEB25A61F057C1B33D8CD71A@1600045518569",
+      "position_id": "5",
+      "query_biz_id": "hotel_search_list"
+    },
+    {
+      "poiId": 1533897,
+      "query_id": "97AF57593174BC092E5DD3B425BA083C28982B0CFEB25A61F057C1B33D8CD71A@1600045518569",
+      "position_id": "6",
+      "query_biz_id": "hotel_search_list"
+    },
+    {
+      "poiId": 2370619,
+      "query_id": "97AF57593174BC092E5DD3B425BA083C28982B0CFEB25A61F057C1B33D8CD71A@1600045518569",
+      "position_id": "7",
+      "query_biz_id": "hotel_search_list"
+    },
+    {
+      "poiId": 183214101,
+      "query_id": "97AF57593174BC092E5DD3B425BA083C28982B0CFEB25A61F057C1B33D8CD71A@1600045518569",
+      "position_id": "8",
+      "query_biz_id": "hotel_search_list"
+    },
+    {
+      "poiId": 1445690,
+      "query_id": "97AF57593174BC092E5DD3B425BA083C28982B0CFEB25A61F057C1B33D8CD71A@1600045518569",
+      "position_id": "9",
+      "query_biz_id": "hotel_search_list"
+    },
+    {
+      "poiId": 42905377,
+      "query_id": "97AF57593174BC092E5DD3B425BA083C28982B0CFEB25A61F057C1B33D8CD71A@1600045518569",
+      "position_id": "10",
+      "query_biz_id": "hotel_search_list"
+    },
+    {
+      "poiId": 5485138,
+      "query_id": "97AF57593174BC092E5DD3B425BA083C28982B0CFEB25A61F057C1B33D8CD71A@1600045518569",
+      "position_id": "11",
+      "query_biz_id": "hotel_search_list"
+    },
+    {
+      "poiId": 2267519,
+      "query_id": "97AF57593174BC092E5DD3B425BA083C28982B0CFEB25A61F057C1B33D8CD71A@1600045518569",
+      "position_id": "12",
+      "query_biz_id": "hotel_search_list"
+    },
+    {
+      "poiId": 2462435,
+      "query_id": "97AF57593174BC092E5DD3B425BA083C28982B0CFEB25A61F057C1B33D8CD71A@1600045518569",
+      "position_id": "13",
+      "query_biz_id": "hotel_search_list"
+    },
+    {
+      "poiId": 87912280,
+      "query_id": "97AF57593174BC092E5DD3B425BA083C28982B0CFEB25A61F057C1B33D8CD71A@1600045518569",
+      "position_id": "14",
+      "query_biz_id": "hotel_search_list"
+    },
+    {
+      "poiId": 89723406,
+      "query_id": "97AF57593174BC092E5DD3B425BA083C28982B0CFEB25A61F057C1B33D8CD71A@1600045518569",
+      "position_id": "15",
+      "query_biz_id": "hotel_search_list"
+    }
+  ],
+  "adPointIds": {
+    "request_id": 0,
+    "global_id": 0
+  }
+}
